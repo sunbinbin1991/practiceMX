@@ -1,0 +1,1254 @@
+2017-12-14 15:41:59,947 - Epoch[0] Batch [50]	Speed: 975.34 samples/sec	accuracy=0.431985
+2017-12-14 15:42:02,886 - Epoch[0] Batch [100]	Speed: 1088.77 samples/sec	accuracy=0.400625
+2017-12-14 15:42:05,758 - Epoch[0] Batch [150]	Speed: 1114.68 samples/sec	accuracy=0.406875
+2017-12-14 15:42:08,471 - Epoch[0] Batch [200]	Speed: 1179.83 samples/sec	accuracy=0.395313
+2017-12-14 15:42:11,153 - Epoch[0] Batch [250]	Speed: 1193.38 samples/sec	accuracy=0.411562
+2017-12-14 15:42:13,731 - Epoch[0] Batch [300]	Speed: 1241.62 samples/sec	accuracy=0.412500
+2017-12-14 15:43:29,234 - Epoch[0] Batch [50]	Speed: 909.27 samples/sec	accuracy=0.736826
+2017-12-14 15:43:32,339 - Epoch[0] Batch [100]	Speed: 1031.00 samples/sec	accuracy=0.842187
+2017-12-14 15:43:35,084 - Epoch[0] Batch [150]	Speed: 1166.08 samples/sec	accuracy=0.882188
+2017-12-14 15:43:37,839 - Epoch[0] Batch [200]	Speed: 1161.65 samples/sec	accuracy=0.901875
+2017-12-14 15:43:40,456 - Epoch[0] Batch [250]	Speed: 1222.85 samples/sec	accuracy=0.891563
+2017-12-14 15:43:43,222 - Epoch[0] Batch [300]	Speed: 1157.09 samples/sec	accuracy=0.929063
+2017-12-14 15:43:45,820 - Epoch[0] Batch [350]	Speed: 1232.46 samples/sec	accuracy=0.928438
+2017-12-14 15:43:48,506 - Epoch[0] Batch [400]	Speed: 1191.48 samples/sec	accuracy=0.928438
+2017-12-14 15:43:51,237 - Epoch[0] Batch [450]	Speed: 1172.04 samples/sec	accuracy=0.936875
+2017-12-14 15:43:53,812 - Epoch[0] Batch [500]	Speed: 1242.67 samples/sec	accuracy=0.936562
+2017-12-14 15:43:56,401 - Epoch[0] Batch [550]	Speed: 1236.51 samples/sec	accuracy=0.947187
+2017-12-14 15:43:58,977 - Epoch[0] Batch [600]	Speed: 1242.52 samples/sec	accuracy=0.945625
+2017-12-14 15:44:01,553 - Epoch[0] Batch [650]	Speed: 1242.10 samples/sec	accuracy=0.947812
+2017-12-14 15:44:04,211 - Epoch[0] Batch [700]	Speed: 1204.29 samples/sec	accuracy=0.950313
+2017-12-14 15:44:06,911 - Epoch[0] Batch [750]	Speed: 1185.55 samples/sec	accuracy=0.949688
+2017-12-14 15:44:09,521 - Epoch[0] Batch [800]	Speed: 1225.92 samples/sec	accuracy=0.945312
+2017-12-14 15:44:12,123 - Epoch[0] Batch [850]	Speed: 1230.38 samples/sec	accuracy=0.958438
+2017-12-14 15:44:14,693 - Epoch[0] Batch [900]	Speed: 1245.39 samples/sec	accuracy=0.953438
+2017-12-14 15:44:17,274 - Epoch[0] Batch [950]	Speed: 1239.92 samples/sec	accuracy=0.959063
+2017-12-14 15:44:19,865 - Epoch[0] Batch [1000]	Speed: 1235.05 samples/sec	accuracy=0.954688
+2017-12-14 15:44:22,942 - Epoch[0] Batch [1050]	Speed: 1040.33 samples/sec	accuracy=0.961562
+2017-12-14 15:44:25,517 - Epoch[0] Batch [1100]	Speed: 1242.86 samples/sec	accuracy=0.961250
+2017-12-14 15:44:28,079 - Epoch[0] Batch [1150]	Speed: 1249.37 samples/sec	accuracy=0.961562
+2017-12-14 15:44:30,653 - Epoch[0] Batch [1200]	Speed: 1243.25 samples/sec	accuracy=0.955625
+2017-12-14 15:44:33,218 - Epoch[0] Batch [1250]	Speed: 1247.57 samples/sec	accuracy=0.964063
+2017-12-14 15:44:35,783 - Epoch[0] Batch [1300]	Speed: 1248.75 samples/sec	accuracy=0.950937
+2017-12-14 15:44:38,301 - Epoch[0] Batch [1350]	Speed: 1270.86 samples/sec	accuracy=0.955625
+2017-12-14 15:44:40,842 - Epoch[0] Batch [1400]	Speed: 1259.94 samples/sec	accuracy=0.964688
+2017-12-14 15:44:43,405 - Epoch[0] Batch [1450]	Speed: 1248.51 samples/sec	accuracy=0.965938
+2017-12-14 15:44:45,948 - Epoch[0] Batch [1500]	Speed: 1258.36 samples/sec	accuracy=0.962812
+2017-12-14 15:44:48,576 - Epoch[0] Batch [1550]	Speed: 1218.16 samples/sec	accuracy=0.964063
+2017-12-14 15:44:51,131 - Epoch[0] Batch [1600]	Speed: 1252.77 samples/sec	accuracy=0.967187
+2017-12-14 15:44:53,728 - Epoch[0] Batch [1650]	Speed: 1232.27 samples/sec	accuracy=0.968437
+2017-12-14 15:44:56,292 - Epoch[0] Batch [1700]	Speed: 1248.28 samples/sec	accuracy=0.972187
+2017-12-14 15:44:58,854 - Epoch[0] Batch [1750]	Speed: 1249.13 samples/sec	accuracy=0.964063
+2017-12-14 15:45:01,385 - Epoch[0] Batch [1800]	Speed: 1264.86 samples/sec	accuracy=0.968750
+2017-12-14 15:45:03,910 - Epoch[0] Batch [1850]	Speed: 1267.22 samples/sec	accuracy=0.964375
+2017-12-14 15:45:06,429 - Epoch[0] Batch [1900]	Speed: 1270.69 samples/sec	accuracy=0.974688
+2017-12-14 15:45:08,984 - Epoch[0] Batch [1950]	Speed: 1252.58 samples/sec	accuracy=0.958438
+2017-12-14 15:45:11,657 - Epoch[0] Batch [2000]	Speed: 1197.41 samples/sec	accuracy=0.968125
+2017-12-14 15:45:14,223 - Epoch[0] Batch [2050]	Speed: 1247.09 samples/sec	accuracy=0.964688
+2017-12-14 15:45:16,753 - Epoch[0] Batch [2100]	Speed: 1265.11 samples/sec	accuracy=0.969375
+2017-12-14 15:45:19,307 - Epoch[0] Batch [2150]	Speed: 1253.28 samples/sec	accuracy=0.962500
+2017-12-14 15:45:21,831 - Epoch[0] Batch [2200]	Speed: 1268.26 samples/sec	accuracy=0.974688
+2017-12-14 15:45:24,364 - Epoch[0] Batch [2250]	Speed: 1263.30 samples/sec	accuracy=0.961875
+2017-12-14 15:45:26,913 - Epoch[0] Batch [2300]	Speed: 1255.63 samples/sec	accuracy=0.970000
+2017-12-14 15:45:29,497 - Epoch[0] Batch [2350]	Speed: 1238.59 samples/sec	accuracy=0.969375
+2017-12-14 15:45:32,101 - Epoch[0] Batch [2400]	Speed: 1229.20 samples/sec	accuracy=0.964688
+2017-12-14 15:45:34,673 - Epoch[0] Batch [2450]	Speed: 1244.17 samples/sec	accuracy=0.972187
+2017-12-14 15:45:37,229 - Epoch[0] Batch [2500]	Speed: 1252.44 samples/sec	accuracy=0.970625
+2017-12-14 15:45:39,765 - Epoch[0] Batch [2550]	Speed: 1262.21 samples/sec	accuracy=0.971875
+2017-12-14 15:45:42,306 - Epoch[0] Batch [2600]	Speed: 1259.18 samples/sec	accuracy=0.975313
+2017-12-14 15:45:44,860 - Epoch[0] Batch [2650]	Speed: 1253.18 samples/sec	accuracy=0.962812
+2017-12-14 15:45:47,399 - Epoch[0] Batch [2700]	Speed: 1260.68 samples/sec	accuracy=0.971562
+2017-12-14 15:45:49,935 - Epoch[0] Batch [2750]	Speed: 1262.34 samples/sec	accuracy=0.971250
+2017-12-14 15:45:52,544 - Epoch[0] Batch [2800]	Speed: 1226.64 samples/sec	accuracy=0.975313
+2017-12-14 15:45:55,172 - Epoch[0] Batch [2850]	Speed: 1217.83 samples/sec	accuracy=0.973437
+2017-12-14 15:45:57,738 - Epoch[0] Batch [2900]	Speed: 1247.03 samples/sec	accuracy=0.971875
+2017-12-14 15:46:00,306 - Epoch[0] Batch [2950]	Speed: 1246.53 samples/sec	accuracy=0.974375
+2017-12-14 15:46:02,859 - Epoch[0] Batch [3000]	Speed: 1253.84 samples/sec	accuracy=0.980938
+2017-12-14 15:46:05,402 - Epoch[0] Batch [3050]	Speed: 1258.40 samples/sec	accuracy=0.976250
+2017-12-14 15:46:07,956 - Epoch[0] Batch [3100]	Speed: 1253.32 samples/sec	accuracy=0.975625
+2017-12-14 15:46:10,504 - Epoch[0] Batch [3150]	Speed: 1255.80 samples/sec	accuracy=0.975313
+2017-12-14 15:46:13,040 - Epoch[0] Batch [3200]	Speed: 1262.40 samples/sec	accuracy=0.970000
+2017-12-14 15:46:15,575 - Epoch[0] Batch [3250]	Speed: 1262.17 samples/sec	accuracy=0.979062
+2017-12-14 15:46:18,116 - Epoch[0] Batch [3300]	Speed: 1259.75 samples/sec	accuracy=0.977187
+2017-12-14 15:46:20,793 - Epoch[0] Batch [3350]	Speed: 1195.41 samples/sec	accuracy=0.968125
+2017-12-14 15:46:23,346 - Epoch[0] Batch [3400]	Speed: 1253.90 samples/sec	accuracy=0.977500
+2017-12-14 15:46:25,888 - Epoch[0] Batch [3450]	Speed: 1258.98 samples/sec	accuracy=0.980313
+2017-12-14 15:46:28,427 - Epoch[0] Batch [3500]	Speed: 1260.83 samples/sec	accuracy=0.970000
+2017-12-14 15:46:31,066 - Epoch[0] Batch [3550]	Speed: 1212.55 samples/sec	accuracy=0.977187
+2017-12-14 15:46:34,216 - Epoch[0] Batch [3600]	Speed: 1015.91 samples/sec	accuracy=0.971875
+2017-12-14 15:46:36,752 - Epoch[0] Batch [3650]	Speed: 1262.42 samples/sec	accuracy=0.978125
+2017-12-14 15:46:39,303 - Epoch[0] Batch [3700]	Speed: 1254.53 samples/sec	accuracy=0.975000
+2017-12-14 15:46:42,400 - Epoch[0] Batch [3750]	Speed: 1033.29 samples/sec	accuracy=0.978125
+2017-12-14 15:46:44,949 - Epoch[0] Batch [3800]	Speed: 1255.81 samples/sec	accuracy=0.976250
+2017-12-14 15:46:48,020 - Epoch[0] Batch [3850]	Speed: 1042.05 samples/sec	accuracy=0.975625
+2017-12-14 15:46:50,545 - Epoch[0] Batch [3900]	Speed: 1267.71 samples/sec	accuracy=0.973750
+2017-12-14 15:46:53,070 - Epoch[0] Batch [3950]	Speed: 1267.67 samples/sec	accuracy=0.977812
+2017-12-14 15:46:56,066 - Epoch[0] Batch [4000]	Speed: 1068.12 samples/sec	accuracy=0.971875
+2017-12-14 15:46:58,642 - Epoch[0] Batch [4050]	Speed: 1242.44 samples/sec	accuracy=0.980938
+2017-12-14 15:47:01,178 - Epoch[0] Batch [4100]	Speed: 1261.82 samples/sec	accuracy=0.976250
+2017-12-14 15:47:03,762 - Epoch[0] Batch [4150]	Speed: 1238.62 samples/sec	accuracy=0.978125
+2017-12-14 15:47:06,286 - Epoch[0] Batch [4200]	Speed: 1268.33 samples/sec	accuracy=0.977187
+2017-12-14 15:47:08,824 - Epoch[0] Batch [4250]	Speed: 1261.13 samples/sec	accuracy=0.975625
+2017-12-14 15:47:11,344 - Epoch[0] Batch [4300]	Speed: 1269.83 samples/sec	accuracy=0.982187
+2017-12-14 15:47:13,859 - Epoch[0] Batch [4350]	Speed: 1272.90 samples/sec	accuracy=0.975000
+2017-12-14 15:47:16,904 - Epoch[0] Batch [4400]	Speed: 1051.06 samples/sec	accuracy=0.976250
+2017-12-14 15:47:19,417 - Epoch[0] Batch [4450]	Speed: 1273.26 samples/sec	accuracy=0.979688
+2017-12-14 15:47:22,466 - Epoch[0] Batch [4500]	Speed: 1049.92 samples/sec	accuracy=0.977187
+2017-12-14 15:47:24,963 - Epoch[0] Batch [4550]	Speed: 1281.57 samples/sec	accuracy=0.977187
+2017-12-14 15:47:27,475 - Epoch[0] Batch [4600]	Speed: 1274.12 samples/sec	accuracy=0.975625
+2017-12-14 15:47:29,969 - Epoch[0] Batch [4650]	Speed: 1282.95 samples/sec	accuracy=0.980625
+2017-12-14 15:47:32,476 - Epoch[0] Batch [4700]	Speed: 1276.67 samples/sec	accuracy=0.975625
+2017-12-14 15:47:34,981 - Epoch[0] Batch [4750]	Speed: 1277.82 samples/sec	accuracy=0.979062
+2017-12-14 15:47:37,455 - Epoch[0] Batch [4800]	Speed: 1293.84 samples/sec	accuracy=0.977812
+2017-12-14 15:47:39,988 - Epoch[0] Batch [4850]	Speed: 1263.71 samples/sec	accuracy=0.976250
+2017-12-14 15:47:42,486 - Epoch[0] Batch [4900]	Speed: 1281.35 samples/sec	accuracy=0.978750
+2017-12-14 15:47:44,972 - Epoch[0] Batch [4950]	Speed: 1287.24 samples/sec	accuracy=0.974375
+2017-12-14 15:47:47,478 - Epoch[0] Batch [5000]	Speed: 1277.07 samples/sec	accuracy=0.981875
+2017-12-14 15:47:50,028 - Epoch[0] Batch [5050]	Speed: 1255.13 samples/sec	accuracy=0.982812
+2017-12-14 15:47:52,509 - Epoch[0] Batch [5100]	Speed: 1290.06 samples/sec	accuracy=0.981563
+2017-12-14 15:47:55,032 - Epoch[0] Batch [5150]	Speed: 1268.27 samples/sec	accuracy=0.979062
+2017-12-14 15:47:57,515 - Epoch[0] Batch [5200]	Speed: 1289.26 samples/sec	accuracy=0.978125
+2017-12-14 15:48:00,019 - Epoch[0] Batch [5250]	Speed: 1278.08 samples/sec	accuracy=0.981250
+2017-12-14 15:48:02,518 - Epoch[0] Batch [5300]	Speed: 1280.87 samples/sec	accuracy=0.980313
+2017-12-14 15:52:42,029 - Epoch[0] Batch [1000]	Speed: 2060.39 samples/sec	accuracy=0.934409
+2017-12-14 15:54:48,126 - Epoch[0] Batch [2000]	Speed: 2030.20 samples/sec	accuracy=0.969582
+2017-12-14 15:56:50,256 - Epoch[0] Batch [3000]	Speed: 2096.15 samples/sec	accuracy=0.976820
+2017-12-14 15:58:31,851 - Epoch[0] Train-accuracy=0.979236
+2017-12-14 15:58:31,852 - Epoch[0] Time cost=474.997
+2017-12-14 15:58:31,980 - Saved checkpoint to "./tt/squeezenet-RGB-0001.params"
+2017-12-14 15:59:24,678 - Epoch[0] Validation-accuracy=0.966146
+2017-12-14 16:01:29,078 - Epoch[1] Batch [1000]	Speed: 2063.86 samples/sec	accuracy=0.982350
+2017-12-14 16:03:29,824 - Epoch[1] Batch [2000]	Speed: 2120.18 samples/sec	accuracy=0.984254
+2017-12-14 16:05:27,978 - Epoch[1] Batch [3000]	Speed: 2166.68 samples/sec	accuracy=0.985926
+2017-12-14 16:07:03,125 - Epoch[1] Train-accuracy=0.986442
+2017-12-14 16:07:03,125 - Epoch[1] Time cost=458.447
+2017-12-14 16:07:03,185 - Saved checkpoint to "./tt/squeezenet-RGB-0002.params"
+2017-12-14 16:07:57,389 - Epoch[1] Validation-accuracy=0.975897
+2017-12-14 16:10:01,536 - Epoch[2] Batch [1000]	Speed: 2071.57 samples/sec	accuracy=0.987232
+2017-12-14 16:12:10,322 - Epoch[2] Batch [2000]	Speed: 1987.81 samples/sec	accuracy=0.988434
+2017-12-14 16:14:13,632 - Epoch[2] Batch [3000]	Speed: 2076.08 samples/sec	accuracy=0.988500
+2017-12-14 16:15:54,424 - Epoch[2] Train-accuracy=0.989023
+2017-12-14 16:15:54,424 - Epoch[2] Time cost=477.035
+2017-12-14 16:15:54,485 - Saved checkpoint to "./tt/squeezenet-RGB-0003.params"
+2017-12-14 16:16:43,862 - Epoch[2] Validation-accuracy=0.974053
+2017-12-14 16:18:50,030 - Epoch[3] Batch [1000]	Speed: 2034.43 samples/sec	accuracy=0.989686
+2017-12-14 16:20:54,424 - Epoch[3] Batch [2000]	Speed: 2057.98 samples/sec	accuracy=0.990141
+2017-12-14 16:22:56,104 - Epoch[3] Batch [3000]	Speed: 2103.89 samples/sec	accuracy=0.990582
+2017-12-14 16:24:28,815 - Epoch[3] Train-accuracy=0.990508
+2017-12-14 16:24:28,816 - Epoch[3] Time cost=464.954
+2017-12-14 16:24:28,875 - Saved checkpoint to "./tt/squeezenet-RGB-0004.params"
+2017-12-14 16:25:16,811 - Epoch[3] Validation-accuracy=0.977399
+2017-12-14 16:27:18,623 - Epoch[4] Batch [1000]	Speed: 2107.35 samples/sec	accuracy=0.990810
+2017-12-14 16:29:22,489 - Epoch[4] Batch [2000]	Speed: 2066.77 samples/sec	accuracy=0.991332
+2017-12-14 16:31:25,862 - Epoch[4] Batch [3000]	Speed: 2075.02 samples/sec	accuracy=0.991656
+2017-12-14 16:32:59,403 - Epoch[4] Train-accuracy=0.991695
+2017-12-14 16:32:59,404 - Epoch[4] Time cost=462.592
+2017-12-14 16:32:59,462 - Saved checkpoint to "./tt/squeezenet-RGB-0005.params"
+2017-12-14 16:33:49,115 - Epoch[4] Validation-accuracy=0.977332
+2017-12-14 16:35:49,596 - Epoch[5] Batch [1000]	Speed: 2130.89 samples/sec	accuracy=0.991961
+2017-12-14 16:37:47,085 - Epoch[5] Batch [2000]	Speed: 2178.94 samples/sec	accuracy=0.992375
+2017-12-14 16:39:44,328 - Epoch[5] Batch [3000]	Speed: 2183.50 samples/sec	accuracy=0.992508
+2017-12-14 16:41:19,788 - Epoch[5] Train-accuracy=0.992709
+2017-12-14 16:41:19,789 - Epoch[5] Time cost=450.673
+2017-12-14 16:41:19,854 - Saved checkpoint to "./tt/squeezenet-RGB-0006.params"
+2017-12-14 16:42:08,655 - Epoch[5] Validation-accuracy=0.974215
+2017-12-14 16:44:07,163 - Epoch[6] Batch [1000]	Speed: 2166.45 samples/sec	accuracy=0.992379
+2017-12-14 16:46:04,266 - Epoch[6] Batch [2000]	Speed: 2186.12 samples/sec	accuracy=0.993250
+2017-12-14 16:48:00,743 - Epoch[6] Batch [3000]	Speed: 2197.86 samples/sec	accuracy=0.993230
+2017-12-14 16:49:30,147 - Epoch[6] Train-accuracy=0.963336
+2017-12-14 16:49:30,147 - Epoch[6] Time cost=441.491
+2017-12-14 16:49:30,207 - Saved checkpoint to "./tt/squeezenet-RGB-0007.params"
+2017-12-14 16:50:17,042 - Epoch[6] Validation-accuracy=0.942645
+2017-12-14 16:52:05,271 - Epoch[7] Batch [1000]	Speed: 2372.91 samples/sec	accuracy=0.985105
+2017-12-14 16:53:49,907 - Epoch[7] Batch [2000]	Speed: 2446.58 samples/sec	accuracy=0.993199
+2017-12-14 16:55:34,332 - Epoch[7] Batch [3000]	Speed: 2451.55 samples/sec	accuracy=0.993336
+2017-12-14 16:56:38,816 - Update[30001]: Change learning rate to 4.50000e-03
+2017-12-14 16:57:17,510 - Epoch[7] Train-accuracy=0.993544
+2017-12-14 16:57:17,511 - Epoch[7] Time cost=420.468
+2017-12-14 16:57:17,857 - Saved checkpoint to "./tt/squeezenet-RGB-0008.params"
+2017-12-14 16:58:01,523 - Epoch[7] Validation-accuracy=0.979461
+2017-12-14 17:00:03,368 - Epoch[8] Batch [1000]	Speed: 2107.56 samples/sec	accuracy=0.993565
+2017-12-14 17:01:53,350 - Epoch[8] Batch [2000]	Speed: 2327.68 samples/sec	accuracy=0.994207
+2017-12-14 17:03:42,431 - Epoch[8] Batch [3000]	Speed: 2346.88 samples/sec	accuracy=0.994426
+2017-12-14 17:05:19,392 - Epoch[8] Train-accuracy=0.994153
+2017-12-14 17:05:19,393 - Epoch[8] Time cost=437.869
+2017-12-14 17:05:22,273 - Saved checkpoint to "./tt/squeezenet-RGB-0009.params"
+2017-12-14 17:06:58,166 - Epoch[8] Validation-accuracy=0.981514
+2017-12-14 17:09:59,530 - Epoch[9] Batch [1000]	Speed: 1416.06 samples/sec	accuracy=0.994096
+2017-12-14 17:21:05,712 - Epoch[9] Batch [2000]	Speed: 384.36 samples/sec	accuracy=0.994785
+2017-12-14 17:22:49,642 - Epoch[9] Batch [3000]	Speed: 2464.73 samples/sec	accuracy=0.994840
+2017-12-14 17:24:11,020 - Epoch[9] Train-accuracy=0.994434
+2017-12-14 17:24:11,027 - Epoch[9] Time cost=1032.769
+2017-12-14 17:24:11,415 - Saved checkpoint to "./tt/squeezenet-RGB-0010.params"
+2017-12-14 17:25:31,827 - Epoch[9] Validation-accuracy=0.980193
+2017-12-14 17:27:18,101 - Epoch[10] Batch [1000]	Speed: 2440.13 samples/sec	accuracy=0.994541
+2017-12-14 17:32:09,119 - Epoch[10] Batch [2000]	Speed: 879.67 samples/sec	accuracy=0.994961
+2017-12-14 17:33:55,440 - Epoch[10] Batch [3000]	Speed: 2407.83 samples/sec	accuracy=0.994836
+2017-12-14 17:41:08,649 - Epoch[10] Train-accuracy=0.994757
+2017-12-14 17:41:08,650 - Epoch[10] Time cost=936.821
+2017-12-14 17:41:09,226 - Saved checkpoint to "./tt/squeezenet-RGB-0011.params"
+2017-12-14 17:46:26,613 - Epoch[10] Validation-accuracy=0.979509
+2017-12-14 18:02:12,590 - Epoch[11] Batch [1000]	Speed: 270.72 samples/sec	accuracy=0.994923
+2017-12-14 18:06:04,283 - Epoch[11] Batch [2000]	Speed: 1104.92 samples/sec	accuracy=0.995188
+2017-12-14 18:08:51,734 - Epoch[11] Batch [3000]	Speed: 1528.82 samples/sec	accuracy=0.995098
+2017-12-14 18:10:12,656 - Epoch[11] Train-accuracy=0.994939
+2017-12-14 18:10:12,656 - Epoch[11] Time cost=1426.027
+2017-12-14 18:10:12,806 - Saved checkpoint to "./tt/squeezenet-RGB-0012.params"
+2017-12-14 18:10:51,315 - Epoch[11] Validation-accuracy=0.982056
+2017-12-14 18:12:34,494 - Epoch[12] Batch [1000]	Speed: 2489.17 samples/sec	accuracy=0.995224
+2017-12-14 18:14:18,493 - Epoch[12] Batch [2000]	Speed: 2461.58 samples/sec	accuracy=0.995340
+2017-12-14 18:16:02,639 - Epoch[12] Batch [3000]	Speed: 2458.10 samples/sec	accuracy=0.995363
+2017-12-14 18:17:24,266 - Epoch[12] Train-accuracy=0.995264
+2017-12-14 18:17:24,267 - Epoch[12] Time cost=392.951
+2017-12-14 18:17:24,326 - Saved checkpoint to "./tt/squeezenet-RGB-0013.params"
+2017-12-14 18:18:06,430 - Epoch[12] Validation-accuracy=0.982465
+2017-12-14 18:19:50,852 - Epoch[13] Batch [1000]	Speed: 2459.10 samples/sec	accuracy=0.995321
+2017-12-14 18:21:34,406 - Epoch[13] Batch [2000]	Speed: 2472.16 samples/sec	accuracy=0.995605
+2017-12-14 18:23:18,121 - Epoch[13] Batch [3000]	Speed: 2468.31 samples/sec	accuracy=0.995680
+2017-12-14 18:24:39,655 - Epoch[13] Train-accuracy=0.995392
+2017-12-14 18:24:39,656 - Epoch[13] Time cost=393.225
+2017-12-14 18:24:39,715 - Saved checkpoint to "./tt/squeezenet-RGB-0014.params"
+2017-12-14 18:25:20,749 - Epoch[13] Validation-accuracy=0.983670
+2017-12-14 18:27:04,778 - Epoch[14] Batch [1000]	Speed: 2468.55 samples/sec	accuracy=0.995571
+2017-12-14 18:28:47,681 - Epoch[14] Batch [2000]	Speed: 2487.80 samples/sec	accuracy=0.995773
+2017-12-14 18:30:31,036 - Epoch[14] Batch [3000]	Speed: 2476.91 samples/sec	accuracy=0.995926
+2017-12-14 18:31:52,647 - Epoch[14] Train-accuracy=0.995557
+2017-12-14 18:31:52,647 - Epoch[14] Time cost=391.898
+2017-12-14 18:31:52,707 - Saved checkpoint to "./tt/squeezenet-RGB-0015.params"
+2017-12-14 18:32:34,165 - Epoch[14] Validation-accuracy=0.981296
+2017-12-14 18:34:18,112 - Epoch[15] Batch [1000]	Speed: 2470.36 samples/sec	accuracy=0.995852
+2017-12-14 18:36:01,950 - Epoch[15] Batch [2000]	Speed: 2465.40 samples/sec	accuracy=0.995988
+2017-12-14 18:37:45,719 - Epoch[15] Batch [3000]	Speed: 2467.05 samples/sec	accuracy=0.995965
+2017-12-14 18:38:06,327 - Update[60001]: Change learning rate to 4.05000e-03
+2017-12-14 18:39:06,758 - Epoch[15] Train-accuracy=0.995959
+2017-12-14 18:39:06,759 - Epoch[15] Time cost=392.593
+2017-12-14 18:39:06,819 - Saved checkpoint to "./tt/squeezenet-RGB-0016.params"
+2017-12-14 18:39:48,320 - Epoch[15] Validation-accuracy=0.983444
+2017-12-14 18:41:32,448 - Epoch[16] Batch [1000]	Speed: 2466.22 samples/sec	accuracy=0.996141
+2017-12-14 18:43:15,749 - Epoch[16] Batch [2000]	Speed: 2478.23 samples/sec	accuracy=0.996180
+2017-12-14 18:44:59,754 - Epoch[16] Batch [3000]	Speed: 2461.42 samples/sec	accuracy=0.996344
+2017-12-14 18:46:21,238 - Epoch[16] Train-accuracy=0.996084
+2017-12-14 18:46:21,238 - Epoch[16] Time cost=392.917
+2017-12-14 18:46:21,299 - Saved checkpoint to "./tt/squeezenet-RGB-0017.params"
+2017-12-14 18:47:01,307 - Epoch[16] Validation-accuracy=0.981942
+2017-12-14 18:48:50,042 - Epoch[17] Batch [1000]	Speed: 2361.49 samples/sec	accuracy=0.995977
+2017-12-14 18:50:37,862 - Epoch[17] Batch [2000]	Speed: 2374.34 samples/sec	accuracy=0.996156
+2017-12-14 18:52:29,850 - Epoch[17] Batch [3000]	Speed: 2285.97 samples/sec	accuracy=0.996406
+2017-12-14 18:53:57,684 - Epoch[17] Train-accuracy=0.996134
+2017-12-14 18:53:57,685 - Epoch[17] Time cost=416.377
+2017-12-14 18:53:57,745 - Saved checkpoint to "./tt/squeezenet-RGB-0018.params"
+2017-12-14 18:54:42,184 - Epoch[17] Validation-accuracy=0.982313
+2017-12-14 18:56:31,568 - Epoch[18] Batch [1000]	Speed: 2347.40 samples/sec	accuracy=0.996371
+2017-12-14 18:58:22,221 - Epoch[18] Batch [2000]	Speed: 2313.55 samples/sec	accuracy=0.996453
+2017-12-14 19:00:10,278 - Epoch[18] Batch [3000]	Speed: 2369.14 samples/sec	accuracy=0.996523
+2017-12-14 19:01:34,071 - Epoch[18] Train-accuracy=0.996228
+2017-12-14 19:01:34,072 - Epoch[18] Time cost=411.888
+2017-12-14 19:01:34,132 - Saved checkpoint to "./tt/squeezenet-RGB-0019.params"
+2017-12-14 19:02:26,460 - Epoch[18] Validation-accuracy=0.985211
+2017-12-14 19:04:18,553 - Epoch[19] Batch [1000]	Speed: 2290.40 samples/sec	accuracy=0.996367
+2017-12-14 19:06:06,245 - Epoch[19] Batch [2000]	Speed: 2377.17 samples/sec	accuracy=0.996660
+2017-12-14 19:07:54,741 - Epoch[19] Batch [3000]	Speed: 2359.54 samples/sec	accuracy=0.996617
+2017-12-14 19:09:26,055 - Epoch[19] Train-accuracy=0.996332
+2017-12-14 19:09:26,056 - Epoch[19] Time cost=419.595
+2017-12-14 19:09:26,116 - Saved checkpoint to "./tt/squeezenet-RGB-0020.params"
+2017-12-14 19:10:13,016 - Epoch[19] Validation-accuracy=0.983776
+2017-12-14 19:12:05,391 - Epoch[20] Batch [1000]	Speed: 2284.81 samples/sec	accuracy=0.996585
+2017-12-14 19:13:53,008 - Epoch[20] Batch [2000]	Speed: 2378.83 samples/sec	accuracy=0.996738
+2017-12-14 19:15:42,556 - Epoch[20] Batch [3000]	Speed: 2336.88 samples/sec	accuracy=0.996738
+2017-12-14 19:17:11,112 - Epoch[20] Train-accuracy=0.996412
+2017-12-14 19:17:11,112 - Epoch[20] Time cost=418.096
+2017-12-14 19:17:11,172 - Saved checkpoint to "./tt/squeezenet-RGB-0021.params"
+2017-12-14 19:17:54,987 - Epoch[20] Validation-accuracy=0.984747
+2017-12-14 19:19:44,729 - Epoch[21] Batch [1000]	Speed: 2339.77 samples/sec	accuracy=0.996644
+2017-12-14 19:21:32,556 - Epoch[21] Batch [2000]	Speed: 2374.19 samples/sec	accuracy=0.996754
+2017-12-14 19:23:19,970 - Epoch[21] Batch [3000]	Speed: 2383.32 samples/sec	accuracy=0.996906
+2017-12-14 19:24:45,758 - Epoch[21] Train-accuracy=0.996581
+2017-12-14 19:24:45,759 - Epoch[21] Time cost=410.771
+2017-12-14 19:24:45,819 - Saved checkpoint to "./tt/squeezenet-RGB-0022.params"
+2017-12-14 19:25:28,043 - Epoch[21] Validation-accuracy=0.984822
+2017-12-14 19:27:16,541 - Epoch[22] Batch [1000]	Speed: 2366.64 samples/sec	accuracy=0.996835
+2017-12-14 19:29:06,301 - Epoch[22] Batch [2000]	Speed: 2332.39 samples/sec	accuracy=0.996953
+2017-12-14 19:30:56,144 - Epoch[22] Batch [3000]	Speed: 2330.61 samples/sec	accuracy=0.996996
+2017-12-14 19:32:21,702 - Epoch[22] Train-accuracy=0.996641
+2017-12-14 19:32:21,702 - Epoch[22] Time cost=413.659
+2017-12-14 19:32:21,761 - Saved checkpoint to "./tt/squeezenet-RGB-0023.params"
+2017-12-14 19:33:08,536 - Epoch[22] Validation-accuracy=0.985639
+2017-12-14 19:34:56,692 - Epoch[23] Batch [1000]	Speed: 2374.16 samples/sec	accuracy=0.996980
+2017-12-14 19:36:51,628 - Epoch[23] Batch [2000]	Speed: 2227.34 samples/sec	accuracy=0.996883
+2017-12-14 19:38:35,992 - Update[90001]: Change learning rate to 3.64500e-03
+2017-12-14 19:38:46,384 - Epoch[23] Batch [3000]	Speed: 2230.84 samples/sec	accuracy=0.997176
+2017-12-14 19:40:17,461 - Epoch[23] Train-accuracy=0.996894
+2017-12-14 19:40:17,461 - Epoch[23] Time cost=428.925
+2017-12-14 19:40:17,521 - Saved checkpoint to "./tt/squeezenet-RGB-0024.params"
+2017-12-14 19:41:03,890 - Epoch[23] Validation-accuracy=0.981837
+2017-12-14 19:42:59,585 - Epoch[24] Batch [1000]	Speed: 2220.41 samples/sec	accuracy=0.997085
+2017-12-14 19:44:53,125 - Epoch[24] Batch [2000]	Speed: 2254.73 samples/sec	accuracy=0.997043
+2017-12-14 19:46:47,791 - Epoch[24] Batch [3000]	Speed: 2232.58 samples/sec	accuracy=0.997238
+2017-12-14 19:48:18,913 - Epoch[24] Train-accuracy=0.996830
+2017-12-14 19:48:18,914 - Epoch[24] Time cost=435.023
+2017-12-14 19:48:18,974 - Saved checkpoint to "./tt/squeezenet-RGB-0025.params"
+2017-12-14 19:49:07,464 - Epoch[24] Validation-accuracy=0.984318
+2017-12-14 19:51:03,185 - Epoch[25] Batch [1000]	Speed: 2221.03 samples/sec	accuracy=0.997186
+2017-12-14 19:53:00,427 - Epoch[25] Batch [2000]	Speed: 2183.57 samples/sec	accuracy=0.997207
+2017-12-14 19:54:53,387 - Epoch[25] Batch [3000]	Speed: 2266.29 samples/sec	accuracy=0.997316
+2017-12-14 19:56:24,056 - Epoch[25] Train-accuracy=0.997127
+2017-12-14 19:56:24,056 - Epoch[25] Time cost=436.590
+2017-12-14 19:56:24,124 - Saved checkpoint to "./tt/squeezenet-RGB-0026.params"
+2017-12-14 19:57:14,311 - Epoch[25] Validation-accuracy=0.982997
+2017-12-14 19:59:18,303 - Epoch[26] Batch [1000]	Speed: 2070.75 samples/sec	accuracy=0.997159
+2017-12-14 20:01:19,929 - Epoch[26] Batch [2000]	Speed: 2104.82 samples/sec	accuracy=0.997297
+2017-12-14 20:03:23,642 - Epoch[26] Batch [3000]	Speed: 2069.32 samples/sec	accuracy=0.997484
+2017-12-14 20:04:56,405 - Epoch[26] Train-accuracy=0.997193
+2017-12-14 20:04:56,405 - Epoch[26] Time cost=462.093
+2017-12-14 20:04:56,465 - Saved checkpoint to "./tt/squeezenet-RGB-0027.params"
+2017-12-14 20:06:12,762 - Epoch[26] Validation-accuracy=0.986300
+2017-12-14 20:08:27,509 - Epoch[27] Batch [1000]	Speed: 1905.97 samples/sec	accuracy=0.997327
+2017-12-14 20:10:53,595 - Epoch[27] Batch [2000]	Speed: 1754.92 samples/sec	accuracy=0.997445
+2017-12-14 20:14:09,185 - Epoch[27] Batch [3000]	Speed: 1317.27 samples/sec	accuracy=0.997477
+2017-12-14 20:33:40,513 - Epoch[27] Train-accuracy=0.997252
+2017-12-14 20:33:40,719 - Epoch[27] Time cost=1647.956
+2017-12-14 20:33:41,414 - Saved checkpoint to "./tt/squeezenet-RGB-0028.params"
+2017-12-14 20:35:06,485 - Epoch[27] Validation-accuracy=0.985221
+2017-12-14 20:37:04,044 - Epoch[28] Batch [1000]	Speed: 2185.08 samples/sec	accuracy=0.997346
+2017-12-14 20:38:53,721 - Epoch[28] Batch [2000]	Speed: 2334.15 samples/sec	accuracy=0.997293
+2017-12-14 20:40:44,469 - Epoch[28] Batch [3000]	Speed: 2312.07 samples/sec	accuracy=0.997559
+2017-12-14 20:42:19,732 - Epoch[28] Train-accuracy=0.997356
+2017-12-14 20:42:19,746 - Epoch[28] Time cost=433.261
+2017-12-14 20:42:20,731 - Saved checkpoint to "./tt/squeezenet-RGB-0029.params"
+2017-12-14 20:43:04,970 - Epoch[28] Validation-accuracy=0.985078
+2017-12-14 20:44:54,569 - Epoch[29] Batch [1000]	Speed: 2342.37 samples/sec	accuracy=0.997389
+2017-12-14 20:46:46,373 - Epoch[29] Batch [2000]	Speed: 2289.74 samples/sec	accuracy=0.997480
+2017-12-14 20:48:37,418 - Epoch[29] Batch [3000]	Speed: 2305.40 samples/sec	accuracy=0.997602
+2017-12-14 20:50:04,232 - Epoch[29] Train-accuracy=0.997358
+2017-12-14 20:50:04,233 - Epoch[29] Time cost=419.262
+2017-12-14 20:50:04,291 - Saved checkpoint to "./tt/squeezenet-RGB-0030.params"
+2017-12-14 20:50:45,500 - Epoch[29] Validation-accuracy=0.982417
+2017-12-14 20:53:16,050 - Epoch[30] Batch [1000]	Speed: 1704.27 samples/sec	accuracy=0.997702
+2017-12-14 20:55:19,329 - Epoch[30] Batch [2000]	Speed: 2076.60 samples/sec	accuracy=0.997473
+2017-12-14 20:57:22,166 - Epoch[30] Batch [3000]	Speed: 2084.08 samples/sec	accuracy=0.997758
+2017-12-14 20:59:00,030 - Epoch[30] Train-accuracy=0.997346
+2017-12-14 20:59:00,030 - Epoch[30] Time cost=494.530
+2017-12-14 20:59:00,097 - Saved checkpoint to "./tt/squeezenet-RGB-0031.params"
+2017-12-14 20:59:36,133 - Epoch[30] Validation-accuracy=0.983947
+2017-12-14 21:01:27,667 - Epoch[31] Batch [1000]	Speed: 2301.29 samples/sec	accuracy=0.997635
+2017-12-14 21:03:20,221 - Epoch[31] Batch [2000]	Speed: 2274.48 samples/sec	accuracy=0.997617
+2017-12-14 21:04:28,470 - Update[120001]: Change learning rate to 3.28050e-03
+2017-12-14 21:05:10,394 - Epoch[31] Batch [3000]	Speed: 2323.63 samples/sec	accuracy=0.997848
+2017-12-14 21:06:36,984 - Epoch[31] Train-accuracy=0.997577
+2017-12-14 21:06:36,984 - Epoch[31] Time cost=420.851
+2017-12-14 21:06:37,043 - Saved checkpoint to "./tt/squeezenet-RGB-0032.params"
+2017-12-14 21:07:31,089 - Epoch[31] Validation-accuracy=0.985192
+2017-12-14 21:09:46,892 - Epoch[32] Batch [1000]	Speed: 1890.65 samples/sec	accuracy=0.997721
+2017-12-14 21:11:42,364 - Epoch[32] Batch [2000]	Speed: 2216.99 samples/sec	accuracy=0.997687
+2017-12-14 21:13:37,114 - Epoch[32] Batch [3000]	Speed: 2230.96 samples/sec	accuracy=0.997910
+2017-12-14 21:15:06,285 - Epoch[32] Train-accuracy=0.997624
+2017-12-14 21:15:06,285 - Epoch[32] Time cost=455.195
+2017-12-14 21:15:06,347 - Saved checkpoint to "./tt/squeezenet-RGB-0033.params"
+2017-12-14 21:15:47,083 - Epoch[32] Validation-accuracy=0.983776
+2017-12-14 21:17:41,809 - Epoch[33] Batch [1000]	Speed: 2237.95 samples/sec	accuracy=0.997772
+2017-12-14 21:19:34,220 - Epoch[33] Batch [2000]	Speed: 2277.37 samples/sec	accuracy=0.997777
+2017-12-14 21:21:26,525 - Epoch[33] Batch [3000]	Speed: 2279.52 samples/sec	accuracy=0.997898
+2017-12-14 21:22:50,842 - Epoch[33] Train-accuracy=0.997582
+2017-12-14 21:22:50,842 - Epoch[33] Time cost=423.759
+2017-12-14 21:22:51,228 - Saved checkpoint to "./tt/squeezenet-RGB-0034.params"
+2017-12-14 21:23:30,682 - Epoch[33] Validation-accuracy=0.985099
+2017-12-14 21:25:19,830 - Epoch[34] Batch [1000]	Speed: 2351.92 samples/sec	accuracy=0.997920
+2017-12-14 21:27:07,233 - Epoch[34] Batch [2000]	Speed: 2383.55 samples/sec	accuracy=0.997773
+2017-12-14 21:28:53,944 - Epoch[34] Batch [3000]	Speed: 2399.02 samples/sec	accuracy=0.997930
+2017-12-14 21:30:19,951 - Epoch[34] Train-accuracy=0.997714
+2017-12-14 21:30:19,951 - Epoch[34] Time cost=409.269
+2017-12-14 21:30:21,252 - Saved checkpoint to "./tt/squeezenet-RGB-0035.params"
+2017-12-14 21:31:03,826 - Epoch[34] Validation-accuracy=0.986371
+2017-12-14 21:32:53,749 - Epoch[35] Batch [1000]	Speed: 2336.09 samples/sec	accuracy=0.997865
+2017-12-14 21:34:49,449 - Epoch[35] Batch [2000]	Speed: 2232.06 samples/sec	accuracy=0.997684
+2017-12-14 21:36:46,352 - Epoch[35] Batch [3000]	Speed: 2224.25 samples/sec	accuracy=0.998035
+2017-12-14 21:38:16,603 - Epoch[35] Train-accuracy=0.997771
+2017-12-14 21:38:16,603 - Epoch[35] Time cost=432.776
+2017-12-14 21:38:16,669 - Saved checkpoint to "./tt/squeezenet-RGB-0036.params"
+2017-12-14 21:38:56,660 - Epoch[35] Validation-accuracy=0.985611
+2017-12-14 21:40:52,035 - Epoch[36] Batch [1000]	Speed: 2225.16 samples/sec	accuracy=0.997885
+2017-12-14 21:42:53,345 - Epoch[36] Batch [2000]	Speed: 2110.30 samples/sec	accuracy=0.997855
+2017-12-14 21:44:42,408 - Epoch[36] Batch [3000]	Speed: 2347.29 samples/sec	accuracy=0.998059
+2017-12-14 21:46:09,064 - Epoch[36] Train-accuracy=0.997615
+2017-12-14 21:46:09,065 - Epoch[36] Time cost=432.404
+2017-12-14 21:46:09,123 - Saved checkpoint to "./tt/squeezenet-RGB-0037.params"
+2017-12-14 21:46:53,839 - Epoch[36] Validation-accuracy=0.985439
+2017-12-14 21:48:46,173 - Epoch[37] Batch [1000]	Speed: 2287.23 samples/sec	accuracy=0.998068
+2017-12-14 21:50:39,710 - Epoch[37] Batch [2000]	Speed: 2254.80 samples/sec	accuracy=0.997902
+2017-12-14 21:52:33,979 - Epoch[37] Batch [3000]	Speed: 2240.34 samples/sec	accuracy=0.998004
+2017-12-14 21:54:03,513 - Epoch[37] Train-accuracy=0.997823
+2017-12-14 21:54:03,513 - Epoch[37] Time cost=429.674
+2017-12-14 21:54:03,571 - Saved checkpoint to "./tt/squeezenet-RGB-0038.params"
+2017-12-14 21:54:49,678 - Epoch[37] Validation-accuracy=0.986124
+2017-12-14 21:56:47,732 - Epoch[38] Batch [1000]	Speed: 2174.58 samples/sec	accuracy=0.997947
+2017-12-14 21:58:39,834 - Epoch[38] Batch [2000]	Speed: 2283.65 samples/sec	accuracy=0.997926
+2017-12-14 22:00:34,895 - Epoch[38] Batch [3000]	Speed: 2224.93 samples/sec	accuracy=0.998113
+2017-12-14 22:02:04,810 - Epoch[38] Train-accuracy=0.997796
+2017-12-14 22:02:04,810 - Epoch[38] Time cost=435.132
+2017-12-14 22:02:05,121 - Saved checkpoint to "./tt/squeezenet-RGB-0039.params"
+2017-12-14 22:02:54,779 - Epoch[38] Validation-accuracy=0.985601
+2017-12-14 22:04:50,996 - Epoch[39] Batch [1000]	Speed: 2218.60 samples/sec	accuracy=0.998080
+2017-12-14 22:06:41,968 - Epoch[39] Batch [2000]	Speed: 2306.92 samples/sec	accuracy=0.998102
+2017-12-14 22:07:17,994 - Update[150001]: Change learning rate to 2.95245e-03
+2017-12-14 22:08:34,020 - Epoch[39] Batch [3000]	Speed: 2284.66 samples/sec	accuracy=0.998137
+2017-12-14 22:10:02,953 - Epoch[39] Train-accuracy=0.997918
+2017-12-14 22:10:02,954 - Epoch[39] Time cost=428.174
+2017-12-14 22:10:03,013 - Saved checkpoint to "./tt/squeezenet-RGB-0040.params"
+2017-12-14 22:10:43,688 - Epoch[39] Validation-accuracy=0.984822
+2017-12-14 22:12:36,950 - Epoch[40] Batch [1000]	Speed: 2266.77 samples/sec	accuracy=0.998029
+2017-12-14 22:14:28,191 - Epoch[40] Batch [2000]	Speed: 2301.31 samples/sec	accuracy=0.998117
+2017-12-14 22:16:19,299 - Epoch[40] Batch [3000]	Speed: 2304.09 samples/sec	accuracy=0.998250
+2017-12-14 22:17:44,533 - Epoch[40] Train-accuracy=0.998119
+2017-12-14 22:17:44,533 - Epoch[40] Time cost=420.844
+2017-12-14 22:17:44,591 - Saved checkpoint to "./tt/squeezenet-RGB-0041.params"
+2017-12-14 22:18:33,559 - Epoch[40] Validation-accuracy=0.982908
+2017-12-14 22:20:25,076 - Epoch[41] Batch [1000]	Speed: 2302.85 samples/sec	accuracy=0.998263
+2017-12-14 22:22:14,245 - Epoch[41] Batch [2000]	Speed: 2345.02 samples/sec	accuracy=0.998188
+2017-12-14 22:24:06,519 - Epoch[41] Batch [3000]	Speed: 2280.14 samples/sec	accuracy=0.998383
+2017-12-14 22:25:36,039 - Epoch[41] Train-accuracy=0.997933
+2017-12-14 22:25:36,040 - Epoch[41] Time cost=422.480
+2017-12-14 22:25:36,098 - Saved checkpoint to "./tt/squeezenet-RGB-0042.params"
+2017-12-14 22:26:25,855 - Epoch[41] Validation-accuracy=0.985506
+2017-12-14 22:28:21,307 - Epoch[42] Batch [1000]	Speed: 2226.98 samples/sec	accuracy=0.998096
+2017-12-14 22:30:13,170 - Epoch[42] Batch [2000]	Speed: 2288.53 samples/sec	accuracy=0.998348
+2017-12-14 22:32:03,743 - Epoch[42] Batch [3000]	Speed: 2315.23 samples/sec	accuracy=0.998258
+2017-12-14 22:33:31,456 - Epoch[42] Train-accuracy=0.998069
+2017-12-14 22:33:31,457 - Epoch[42] Time cost=425.601
+2017-12-14 22:33:31,514 - Saved checkpoint to "./tt/squeezenet-RGB-0043.params"
+2017-12-14 22:34:21,345 - Epoch[42] Validation-accuracy=0.986162
+2017-12-14 22:36:17,362 - Epoch[43] Batch [1000]	Speed: 2213.01 samples/sec	accuracy=0.998248
+2017-12-14 22:38:09,632 - Epoch[43] Batch [2000]	Speed: 2280.23 samples/sec	accuracy=0.998184
+2017-12-14 22:40:01,070 - Epoch[43] Batch [3000]	Speed: 2297.26 samples/sec	accuracy=0.998371
+2017-12-14 22:41:29,330 - Epoch[43] Train-accuracy=0.998047
+2017-12-14 22:41:29,331 - Epoch[43] Time cost=427.985
+2017-12-14 22:41:29,389 - Saved checkpoint to "./tt/squeezenet-RGB-0044.params"
+2017-12-14 22:42:15,205 - Epoch[43] Validation-accuracy=0.984632
+2017-12-14 22:44:06,566 - Epoch[44] Batch [1000]	Speed: 2307.39 samples/sec	accuracy=0.998260
+2017-12-14 22:45:58,481 - Epoch[44] Batch [2000]	Speed: 2287.46 samples/sec	accuracy=0.998160
+2017-12-14 22:47:49,773 - Epoch[44] Batch [3000]	Speed: 2300.27 samples/sec	accuracy=0.998398
+2017-12-14 22:49:20,094 - Epoch[44] Train-accuracy=0.998164
+2017-12-14 22:49:20,095 - Epoch[44] Time cost=424.890
+2017-12-14 22:49:20,153 - Saved checkpoint to "./tt/squeezenet-RGB-0045.params"
+2017-12-14 22:50:06,164 - Epoch[44] Validation-accuracy=0.986494
+2017-12-14 22:51:58,447 - Epoch[45] Batch [1000]	Speed: 2286.58 samples/sec	accuracy=0.998279
+2017-12-14 22:53:49,389 - Epoch[45] Batch [2000]	Speed: 2307.53 samples/sec	accuracy=0.998305
+2017-12-14 22:55:40,737 - Epoch[45] Batch [3000]	Speed: 2299.11 samples/sec	accuracy=0.998543
+2017-12-14 22:57:07,419 - Epoch[45] Train-accuracy=0.998136
+2017-12-14 22:57:07,545 - Epoch[45] Time cost=421.381
+2017-12-14 22:57:07,588 - Saved checkpoint to "./tt/squeezenet-RGB-0046.params"
+2017-12-14 22:57:55,490 - Epoch[45] Validation-accuracy=0.985934
+2017-12-14 22:59:49,089 - Epoch[46] Batch [1000]	Speed: 2261.05 samples/sec	accuracy=0.998275
+2017-12-14 23:01:44,217 - Epoch[46] Batch [2000]	Speed: 2223.61 samples/sec	accuracy=0.998270
+2017-12-14 23:03:37,636 - Epoch[46] Batch [3000]	Speed: 2257.15 samples/sec	accuracy=0.998488
+2017-12-14 23:05:06,521 - Epoch[46] Train-accuracy=0.998211
+2017-12-14 23:05:06,522 - Epoch[46] Time cost=431.031
+2017-12-14 23:05:06,580 - Saved checkpoint to "./tt/squeezenet-RGB-0047.params"
+2017-12-14 23:05:55,973 - Epoch[46] Validation-accuracy=0.983510
+2017-12-14 23:07:55,187 - Epoch[47] Batch [1000]	Speed: 2153.78 samples/sec	accuracy=0.998498
+2017-12-14 23:09:47,165 - Epoch[47] Batch [2000]	Speed: 2286.19 samples/sec	accuracy=0.998328
+2017-12-14 23:09:50,404 - Update[180001]: Change learning rate to 2.65721e-03
+2017-12-14 23:11:38,901 - Epoch[47] Batch [3000]	Speed: 2291.12 samples/sec	accuracy=0.998512
+2017-12-14 23:13:06,621 - Epoch[47] Train-accuracy=0.998353
+2017-12-14 23:13:06,621 - Epoch[47] Time cost=430.648
+2017-12-14 23:13:06,679 - Saved checkpoint to "./tt/squeezenet-RGB-0048.params"
+2017-12-14 23:13:56,614 - Epoch[47] Validation-accuracy=0.984308
+2017-12-14 23:15:58,224 - Epoch[48] Batch [1000]	Speed: 2110.34 samples/sec	accuracy=0.998404
+2017-12-14 23:17:50,375 - Epoch[48] Batch [2000]	Speed: 2282.64 samples/sec	accuracy=0.998469
+2017-12-14 23:19:42,825 - Epoch[48] Batch [3000]	Speed: 2276.59 samples/sec	accuracy=0.998625
+2017-12-14 23:21:10,699 - Epoch[48] Train-accuracy=0.998430
+2017-12-14 23:21:10,700 - Epoch[48] Time cost=434.086
+2017-12-14 23:21:10,758 - Saved checkpoint to "./tt/squeezenet-RGB-0049.params"
+2017-12-14 23:21:56,697 - Epoch[48] Validation-accuracy=0.984898
+2017-12-14 23:23:49,477 - Epoch[49] Batch [1000]	Speed: 2279.34 samples/sec	accuracy=0.998537
+2017-12-14 23:25:40,701 - Epoch[49] Batch [2000]	Speed: 2301.66 samples/sec	accuracy=0.998461
+2017-12-14 23:27:31,728 - Epoch[49] Batch [3000]	Speed: 2305.77 samples/sec	accuracy=0.998586
+2017-12-14 23:28:58,356 - Epoch[49] Train-accuracy=0.998477
+2017-12-14 23:28:58,356 - Epoch[49] Time cost=421.659
+2017-12-14 23:28:58,414 - Saved checkpoint to "./tt/squeezenet-RGB-0050.params"
+2017-12-14 23:29:45,932 - Epoch[49] Validation-accuracy=0.985706
+2017-12-14 23:31:42,554 - Epoch[50] Batch [1000]	Speed: 2201.55 samples/sec	accuracy=0.998474
+2017-12-14 23:33:36,518 - Epoch[50] Batch [2000]	Speed: 2246.34 samples/sec	accuracy=0.998559
+2017-12-14 23:35:25,846 - Epoch[50] Batch [3000]	Speed: 2341.61 samples/sec	accuracy=0.998582
+2017-12-14 23:36:51,710 - Epoch[50] Train-accuracy=0.998474
+2017-12-14 23:36:51,710 - Epoch[50] Time cost=425.777
+2017-12-14 23:36:51,768 - Saved checkpoint to "./tt/squeezenet-RGB-0051.params"
+2017-12-14 23:37:35,340 - Epoch[50] Validation-accuracy=0.984242
+2017-12-14 23:39:27,357 - Epoch[51] Batch [1000]	Speed: 2292.39 samples/sec	accuracy=0.998541
+2017-12-14 23:41:18,637 - Epoch[51] Batch [2000]	Speed: 2300.51 samples/sec	accuracy=0.998555
+2017-12-14 23:43:09,614 - Epoch[51] Batch [3000]	Speed: 2306.81 samples/sec	accuracy=0.998695
+2017-12-14 23:44:36,444 - Epoch[51] Train-accuracy=0.998462
+2017-12-14 23:44:36,445 - Epoch[51] Time cost=421.104
+2017-12-14 23:44:36,503 - Saved checkpoint to "./tt/squeezenet-RGB-0052.params"
+2017-12-14 23:45:16,583 - Epoch[51] Validation-accuracy=0.986390
+2017-12-14 23:47:09,333 - Epoch[52] Batch [1000]	Speed: 2277.11 samples/sec	accuracy=0.998708
+2017-12-14 23:49:01,620 - Epoch[52] Batch [2000]	Speed: 2279.89 samples/sec	accuracy=0.998617
+2017-12-14 23:50:55,104 - Epoch[52] Batch [3000]	Speed: 2255.86 samples/sec	accuracy=0.998586
+2017-12-14 23:52:25,765 - Epoch[52] Train-accuracy=0.998415
+2017-12-14 23:52:25,765 - Epoch[52] Time cost=429.181
+2017-12-14 23:52:25,825 - Saved checkpoint to "./tt/squeezenet-RGB-0053.params"
+2017-12-14 23:53:13,177 - Epoch[52] Validation-accuracy=0.984556
+2017-12-14 23:55:04,807 - Epoch[53] Batch [1000]	Speed: 2300.01 samples/sec	accuracy=0.998619
+2017-12-14 23:56:54,838 - Epoch[53] Batch [2000]	Speed: 2326.62 samples/sec	accuracy=0.998570
+2017-12-14 23:58:48,413 - Epoch[53] Batch [3000]	Speed: 2254.04 samples/sec	accuracy=0.998746
+2017-12-15 00:00:18,079 - Epoch[53] Train-accuracy=0.998428
+2017-12-15 00:00:18,079 - Epoch[53] Time cost=424.901
+2017-12-15 00:00:18,140 - Saved checkpoint to "./tt/squeezenet-RGB-0054.params"
+2017-12-15 00:01:00,144 - Epoch[53] Validation-accuracy=0.987443
+2017-12-15 00:02:52,298 - Epoch[54] Batch [1000]	Speed: 2288.88 samples/sec	accuracy=0.998611
+2017-12-15 00:04:46,581 - Epoch[54] Batch [2000]	Speed: 2240.07 samples/sec	accuracy=0.998641
+2017-12-15 00:06:36,472 - Epoch[54] Batch [3000]	Speed: 2329.60 samples/sec	accuracy=0.998730
+2017-12-15 00:08:05,858 - Epoch[54] Train-accuracy=0.998489
+2017-12-15 00:08:05,858 - Epoch[54] Time cost=425.714
+2017-12-15 00:08:05,916 - Saved checkpoint to "./tt/squeezenet-RGB-0055.params"
+2017-12-15 00:08:48,411 - Epoch[54] Validation-accuracy=0.983833
+2017-12-15 00:10:40,612 - Epoch[55] Batch [1000]	Speed: 2289.73 samples/sec	accuracy=0.998611
+2017-12-15 00:12:00,747 - Update[210001]: Change learning rate to 2.39148e-03
+2017-12-15 00:12:29,401 - Epoch[55] Batch [2000]	Speed: 2353.20 samples/sec	accuracy=0.998590
+2017-12-15 00:14:20,282 - Epoch[55] Batch [3000]	Speed: 2308.80 samples/sec	accuracy=0.998727
+2017-12-15 00:15:47,954 - Epoch[55] Train-accuracy=0.998559
+2017-12-15 00:15:47,954 - Epoch[55] Time cost=419.543
+2017-12-15 00:15:48,014 - Saved checkpoint to "./tt/squeezenet-RGB-0056.params"
+2017-12-15 00:16:30,309 - Epoch[55] Validation-accuracy=0.985316
+2017-12-15 00:18:24,038 - Epoch[56] Batch [1000]	Speed: 2257.48 samples/sec	accuracy=0.998736
+2017-12-15 00:20:16,660 - Epoch[56] Batch [2000]	Speed: 2273.10 samples/sec	accuracy=0.998711
+2017-12-15 00:22:09,472 - Epoch[56] Batch [3000]	Speed: 2269.27 samples/sec	accuracy=0.998820
+2017-12-15 00:23:34,854 - Epoch[56] Train-accuracy=0.998542
+2017-12-15 00:23:34,855 - Epoch[56] Time cost=424.545
+2017-12-15 00:23:34,913 - Saved checkpoint to "./tt/squeezenet-RGB-0057.params"
+2017-12-15 00:24:19,770 - Epoch[56] Validation-accuracy=0.988832
+2017-12-15 00:26:15,670 - Epoch[57] Batch [1000]	Speed: 2215.24 samples/sec	accuracy=0.998743
+2017-12-15 00:28:07,698 - Epoch[57] Batch [2000]	Speed: 2285.16 samples/sec	accuracy=0.998730
+2017-12-15 00:30:04,342 - Epoch[57] Batch [3000]	Speed: 2194.73 samples/sec	accuracy=0.998734
+2017-12-15 00:31:31,385 - Epoch[57] Train-accuracy=0.998658
+2017-12-15 00:31:31,386 - Epoch[57] Time cost=431.616
+2017-12-15 00:31:31,444 - Saved checkpoint to "./tt/squeezenet-RGB-0058.params"
+2017-12-15 00:32:18,370 - Epoch[57] Validation-accuracy=0.986675
+2017-12-15 00:34:10,138 - Epoch[58] Batch [1000]	Speed: 2297.27 samples/sec	accuracy=0.998786
+2017-12-15 00:36:06,711 - Epoch[58] Batch [2000]	Speed: 2196.06 samples/sec	accuracy=0.998836
+2017-12-15 00:37:56,204 - Epoch[58] Batch [3000]	Speed: 2338.07 samples/sec	accuracy=0.998789
+2017-12-15 00:39:25,865 - Epoch[58] Train-accuracy=0.998637
+2017-12-15 00:39:25,866 - Epoch[58] Time cost=427.495
+2017-12-15 00:39:25,947 - Saved checkpoint to "./tt/squeezenet-RGB-0059.params"
+2017-12-15 00:40:12,579 - Epoch[58] Validation-accuracy=0.985544
+2017-12-15 00:42:03,781 - Epoch[59] Batch [1000]	Speed: 2308.95 samples/sec	accuracy=0.998888
+2017-12-15 00:43:52,078 - Epoch[59] Batch [2000]	Speed: 2363.88 samples/sec	accuracy=0.998812
+2017-12-15 00:45:44,626 - Epoch[59] Batch [3000]	Speed: 2274.60 samples/sec	accuracy=0.998777
+2017-12-15 00:47:09,410 - Epoch[59] Train-accuracy=0.998589
+2017-12-15 00:47:09,411 - Epoch[59] Time cost=416.831
+2017-12-15 00:47:09,469 - Saved checkpoint to "./tt/squeezenet-RGB-0060.params"
+2017-12-15 00:47:46,419 - Epoch[59] Validation-accuracy=0.987625
+2017-12-15 00:49:34,519 - Epoch[60] Batch [1000]	Speed: 2375.52 samples/sec	accuracy=0.998954
+2017-12-15 00:51:20,694 - Epoch[60] Batch [2000]	Speed: 2411.13 samples/sec	accuracy=0.998816
+2017-12-15 00:53:08,084 - Epoch[60] Batch [3000]	Speed: 2383.87 samples/sec	accuracy=0.998812
+2017-12-15 00:54:31,452 - Epoch[60] Train-accuracy=0.998776
+2017-12-15 00:54:31,452 - Epoch[60] Time cost=405.032
+2017-12-15 00:54:31,511 - Saved checkpoint to "./tt/squeezenet-RGB-0061.params"
+2017-12-15 00:55:09,795 - Epoch[60] Validation-accuracy=0.988176
+2017-12-15 00:56:57,760 - Epoch[61] Batch [1000]	Speed: 2379.28 samples/sec	accuracy=0.998935
+2017-12-15 00:58:44,813 - Epoch[61] Batch [2000]	Speed: 2391.35 samples/sec	accuracy=0.998840
+2017-12-15 01:00:32,813 - Epoch[61] Batch [3000]	Speed: 2370.38 samples/sec	accuracy=0.998859
+2017-12-15 01:01:57,624 - Epoch[61] Train-accuracy=0.998753
+2017-12-15 01:01:57,625 - Epoch[61] Time cost=407.829
+2017-12-15 01:01:57,683 - Saved checkpoint to "./tt/squeezenet-RGB-0062.params"
+2017-12-15 01:02:35,695 - Epoch[61] Validation-accuracy=0.984898
+2017-12-15 01:04:22,545 - Epoch[62] Batch [1000]	Speed: 2403.39 samples/sec	accuracy=0.998833
+2017-12-15 01:06:10,692 - Epoch[62] Batch [2000]	Speed: 2367.16 samples/sec	accuracy=0.998797
+2017-12-15 01:08:00,047 - Epoch[62] Batch [3000]	Speed: 2341.02 samples/sec	accuracy=0.998883
+2017-12-15 01:09:24,465 - Epoch[62] Train-accuracy=0.998671
+2017-12-15 01:09:24,465 - Epoch[62] Time cost=408.770
+2017-12-15 01:09:24,522 - Saved checkpoint to "./tt/squeezenet-RGB-0063.params"
+2017-12-15 01:10:01,531 - Epoch[62] Validation-accuracy=0.987017
+2017-12-15 01:11:48,420 - Epoch[63] Batch [1000]	Speed: 2402.37 samples/sec	accuracy=0.998966
+2017-12-15 01:12:36,696 - Update[240001]: Change learning rate to 2.15234e-03
+2017-12-15 01:13:36,403 - Epoch[63] Batch [2000]	Speed: 2370.77 samples/sec	accuracy=0.998809
+2017-12-15 01:15:24,757 - Epoch[63] Batch [3000]	Speed: 2362.65 samples/sec	accuracy=0.998898
+2017-12-15 01:16:50,135 - Epoch[63] Train-accuracy=0.998842
+2017-12-15 01:16:50,135 - Epoch[63] Time cost=408.604
+2017-12-15 01:16:50,193 - Saved checkpoint to "./tt/squeezenet-RGB-0064.params"
+2017-12-15 01:17:28,161 - Epoch[63] Validation-accuracy=0.986761
+2017-12-15 01:19:14,193 - Epoch[64] Batch [1000]	Speed: 2421.93 samples/sec	accuracy=0.998989
+2017-12-15 01:21:00,743 - Epoch[64] Batch [2000]	Speed: 2416.69 samples/sec	accuracy=0.998961
+2017-12-15 01:22:49,734 - Epoch[64] Batch [3000]	Speed: 2349.46 samples/sec	accuracy=0.999012
+2017-12-15 01:24:14,852 - Epoch[64] Train-accuracy=0.998772
+2017-12-15 01:24:14,852 - Epoch[64] Time cost=406.691
+2017-12-15 01:24:14,910 - Saved checkpoint to "./tt/squeezenet-RGB-0065.params"
+2017-12-15 01:24:54,681 - Epoch[64] Validation-accuracy=0.987122
+2017-12-15 01:26:41,263 - Epoch[65] Batch [1000]	Speed: 2409.42 samples/sec	accuracy=0.998966
+2017-12-15 01:28:28,925 - Epoch[65] Batch [2000]	Speed: 2377.83 samples/sec	accuracy=0.998926
+2017-12-15 01:30:15,616 - Epoch[65] Batch [3000]	Speed: 2399.46 samples/sec	accuracy=0.999000
+2017-12-15 01:31:39,703 - Epoch[65] Train-accuracy=0.998895
+2017-12-15 01:31:39,704 - Epoch[65] Time cost=405.022
+2017-12-15 01:31:39,761 - Saved checkpoint to "./tt/squeezenet-RGB-0066.params"
+2017-12-15 01:32:15,728 - Epoch[65] Validation-accuracy=0.987939
+2017-12-15 01:34:01,124 - Epoch[66] Batch [1000]	Speed: 2436.13 samples/sec	accuracy=0.998942
+2017-12-15 01:35:48,763 - Epoch[66] Batch [2000]	Speed: 2378.33 samples/sec	accuracy=0.998980
+2017-12-15 01:37:36,400 - Epoch[66] Batch [3000]	Speed: 2378.39 samples/sec	accuracy=0.998984
+2017-12-15 01:39:01,564 - Epoch[66] Train-accuracy=0.998797
+2017-12-15 01:39:01,564 - Epoch[66] Time cost=405.835
+2017-12-15 01:39:01,623 - Saved checkpoint to "./tt/squeezenet-RGB-0067.params"
+2017-12-15 01:39:38,495 - Epoch[66] Validation-accuracy=0.986903
+2017-12-15 01:41:25,138 - Epoch[67] Batch [1000]	Speed: 2407.62 samples/sec	accuracy=0.998958
+2017-12-15 01:43:11,394 - Epoch[67] Batch [2000]	Speed: 2409.28 samples/sec	accuracy=0.998980
+2017-12-15 01:44:57,959 - Epoch[67] Batch [3000]	Speed: 2402.30 samples/sec	accuracy=0.999160
+2017-12-15 01:46:22,519 - Epoch[67] Train-accuracy=0.998875
+2017-12-15 01:46:22,520 - Epoch[67] Time cost=404.024
+2017-12-15 01:46:22,577 - Saved checkpoint to "./tt/squeezenet-RGB-0068.params"
+2017-12-15 01:46:58,576 - Epoch[67] Validation-accuracy=0.984546
+2017-12-15 01:48:44,501 - Epoch[68] Batch [1000]	Speed: 2422.58 samples/sec	accuracy=0.999021
+2017-12-15 01:50:31,131 - Epoch[68] Batch [2000]	Speed: 2400.84 samples/sec	accuracy=0.999027
+2017-12-15 01:52:18,053 - Epoch[68] Batch [3000]	Speed: 2394.30 samples/sec	accuracy=0.998980
+2017-12-15 01:53:41,946 - Epoch[68] Train-accuracy=0.998887
+2017-12-15 01:53:41,947 - Epoch[68] Time cost=403.370
+2017-12-15 01:53:42,005 - Saved checkpoint to "./tt/squeezenet-RGB-0069.params"
+2017-12-15 01:54:17,562 - Epoch[68] Validation-accuracy=0.985734
+2017-12-15 01:56:03,410 - Epoch[69] Batch [1000]	Speed: 2424.45 samples/sec	accuracy=0.998946
+2017-12-15 01:57:51,005 - Epoch[69] Batch [2000]	Speed: 2379.31 samples/sec	accuracy=0.998984
+2017-12-15 01:59:38,057 - Epoch[69] Batch [3000]	Speed: 2391.37 samples/sec	accuracy=0.999012
+2017-12-15 02:01:02,276 - Epoch[69] Train-accuracy=0.998930
+2017-12-15 02:01:02,277 - Epoch[69] Time cost=404.714
+2017-12-15 02:01:02,335 - Saved checkpoint to "./tt/squeezenet-RGB-0070.params"
+2017-12-15 02:01:38,768 - Epoch[69] Validation-accuracy=0.987863
+2017-12-15 02:03:23,769 - Epoch[70] Batch [1000]	Speed: 2444.69 samples/sec	accuracy=0.999071
+2017-12-15 02:05:11,501 - Epoch[70] Batch [2000]	Speed: 2376.27 samples/sec	accuracy=0.999078
+2017-12-15 02:06:59,120 - Epoch[70] Batch [3000]	Speed: 2378.78 samples/sec	accuracy=0.999098
+2017-12-15 02:08:22,947 - Epoch[70] Train-accuracy=0.998922
+2017-12-15 02:08:22,948 - Epoch[70] Time cost=404.179
+2017-12-15 02:08:23,005 - Saved checkpoint to "./tt/squeezenet-RGB-0071.params"
+2017-12-15 02:08:58,950 - Epoch[70] Validation-accuracy=0.987911
+2017-12-15 02:10:44,753 - Epoch[71] Batch [1000]	Speed: 2424.07 samples/sec	accuracy=0.999052
+2017-12-15 02:11:00,899 - Update[270001]: Change learning rate to 1.93710e-03
+2017-12-15 02:12:30,943 - Epoch[71] Batch [2000]	Speed: 2410.78 samples/sec	accuracy=0.999160
+2017-12-15 02:14:17,710 - Epoch[71] Batch [3000]	Speed: 2397.77 samples/sec	accuracy=0.999191
+2017-12-15 02:15:40,499 - Epoch[71] Train-accuracy=0.998970
+2017-12-15 02:15:40,499 - Epoch[71] Time cost=401.549
+2017-12-15 02:15:40,557 - Saved checkpoint to "./tt/squeezenet-RGB-0072.params"
+2017-12-15 02:16:16,430 - Epoch[71] Validation-accuracy=0.986314
+2017-12-15 02:18:02,350 - Epoch[72] Batch [1000]	Speed: 2422.88 samples/sec	accuracy=0.999040
+2017-12-15 02:19:49,540 - Epoch[72] Batch [2000]	Speed: 2388.29 samples/sec	accuracy=0.999047
+2017-12-15 02:21:37,619 - Epoch[72] Batch [3000]	Speed: 2368.67 samples/sec	accuracy=0.999133
+2017-12-15 02:23:02,169 - Epoch[72] Train-accuracy=0.999081
+2017-12-15 02:23:02,170 - Epoch[72] Time cost=405.739
+2017-12-15 02:23:02,228 - Saved checkpoint to "./tt/squeezenet-RGB-0073.params"
+2017-12-15 02:23:40,935 - Epoch[72] Validation-accuracy=0.989156
+2017-12-15 02:25:27,584 - Epoch[73] Batch [1000]	Speed: 2408.09 samples/sec	accuracy=0.999141
+2017-12-15 02:27:14,401 - Epoch[73] Batch [2000]	Speed: 2396.65 samples/sec	accuracy=0.999133
+2017-12-15 02:29:02,793 - Epoch[73] Batch [3000]	Speed: 2361.81 samples/sec	accuracy=0.999156
+2017-12-15 02:30:26,223 - Epoch[73] Train-accuracy=0.999061
+2017-12-15 02:30:26,224 - Epoch[73] Time cost=405.288
+2017-12-15 02:30:26,281 - Saved checkpoint to "./tt/squeezenet-RGB-0074.params"
+2017-12-15 02:31:02,829 - Epoch[73] Validation-accuracy=0.988167
+2017-12-15 02:32:50,827 - Epoch[74] Batch [1000]	Speed: 2377.73 samples/sec	accuracy=0.999091
+2017-12-15 02:34:38,973 - Epoch[74] Batch [2000]	Speed: 2367.19 samples/sec	accuracy=0.999047
+2017-12-15 02:36:26,646 - Epoch[74] Batch [3000]	Speed: 2377.59 samples/sec	accuracy=0.999066
+2017-12-15 02:37:51,702 - Epoch[74] Train-accuracy=0.999005
+2017-12-15 02:37:51,703 - Epoch[74] Time cost=408.874
+2017-12-15 02:37:51,761 - Saved checkpoint to "./tt/squeezenet-RGB-0075.params"
+2017-12-15 02:38:28,739 - Epoch[74] Validation-accuracy=0.989244
+2017-12-15 02:40:14,433 - Epoch[75] Batch [1000]	Speed: 2429.80 samples/sec	accuracy=0.999122
+2017-12-15 02:42:01,718 - Epoch[75] Batch [2000]	Speed: 2386.19 samples/sec	accuracy=0.999109
+2017-12-15 02:43:49,365 - Epoch[75] Batch [3000]	Speed: 2378.17 samples/sec	accuracy=0.999164
+2017-12-15 02:45:14,483 - Epoch[75] Train-accuracy=0.998902
+2017-12-15 02:45:14,483 - Epoch[75] Time cost=405.744
+2017-12-15 02:45:14,541 - Saved checkpoint to "./tt/squeezenet-RGB-0076.params"
+2017-12-15 02:45:51,196 - Epoch[75] Validation-accuracy=0.987027
+2017-12-15 02:47:37,925 - Epoch[76] Batch [1000]	Speed: 2406.13 samples/sec	accuracy=0.999157
+2017-12-15 02:49:25,516 - Epoch[76] Batch [2000]	Speed: 2379.41 samples/sec	accuracy=0.999109
+2017-12-15 02:51:12,025 - Epoch[76] Batch [3000]	Speed: 2403.56 samples/sec	accuracy=0.999215
+2017-12-15 02:52:35,990 - Epoch[76] Train-accuracy=0.999010
+2017-12-15 02:52:35,991 - Epoch[76] Time cost=404.795
+2017-12-15 02:52:36,049 - Saved checkpoint to "./tt/squeezenet-RGB-0077.params"
+2017-12-15 02:53:12,203 - Epoch[76] Validation-accuracy=0.986247
+2017-12-15 02:54:58,132 - Epoch[77] Batch [1000]	Speed: 2421.44 samples/sec	accuracy=0.999157
+2017-12-15 02:56:46,025 - Epoch[77] Batch [2000]	Speed: 2372.73 samples/sec	accuracy=0.999086
+2017-12-15 02:58:32,864 - Epoch[77] Batch [3000]	Speed: 2396.16 samples/sec	accuracy=0.999199
+2017-12-15 02:59:57,178 - Epoch[77] Train-accuracy=0.999031
+2017-12-15 02:59:57,178 - Epoch[77] Time cost=404.975
+2017-12-15 02:59:57,236 - Saved checkpoint to "./tt/squeezenet-RGB-0078.params"
+2017-12-15 03:00:33,243 - Epoch[77] Validation-accuracy=0.987483
+2017-12-15 03:02:18,574 - Epoch[78] Batch [1000]	Speed: 2436.29 samples/sec	accuracy=0.999247
+2017-12-15 03:04:05,213 - Epoch[78] Batch [2000]	Speed: 2400.65 samples/sec	accuracy=0.999168
+2017-12-15 03:05:53,485 - Epoch[78] Batch [3000]	Speed: 2364.43 samples/sec	accuracy=0.999250
+2017-12-15 03:07:17,977 - Epoch[78] Train-accuracy=0.999104
+2017-12-15 03:07:17,977 - Epoch[78] Time cost=404.733
+2017-12-15 03:07:18,034 - Saved checkpoint to "./tt/squeezenet-RGB-0079.params"
+2017-12-15 03:07:53,911 - Epoch[78] Validation-accuracy=0.987150
+2017-12-15 03:09:24,923 - Update[300001]: Change learning rate to 1.74339e-03
+2017-12-15 03:09:39,705 - Epoch[79] Batch [1000]	Speed: 2425.85 samples/sec	accuracy=0.999208
+2017-12-15 03:11:26,669 - Epoch[79] Batch [2000]	Speed: 2393.35 samples/sec	accuracy=0.999219
+2017-12-15 03:13:13,432 - Epoch[79] Batch [3000]	Speed: 2397.85 samples/sec	accuracy=0.999266
+2017-12-15 03:14:37,170 - Epoch[79] Train-accuracy=0.999056
+2017-12-15 03:14:37,171 - Epoch[79] Time cost=403.260
+2017-12-15 03:14:37,229 - Saved checkpoint to "./tt/squeezenet-RGB-0080.params"
+2017-12-15 03:15:15,443 - Epoch[79] Validation-accuracy=0.987977
+2017-12-15 03:17:02,430 - Epoch[80] Batch [1000]	Speed: 2400.19 samples/sec	accuracy=0.999181
+2017-12-15 03:18:49,734 - Epoch[80] Batch [2000]	Speed: 2385.77 samples/sec	accuracy=0.999285
+2017-12-15 03:20:36,950 - Epoch[80] Batch [3000]	Speed: 2387.73 samples/sec	accuracy=0.999223
+2017-12-15 03:22:02,229 - Epoch[80] Train-accuracy=0.999129
+2017-12-15 03:22:02,230 - Epoch[80] Time cost=406.786
+2017-12-15 03:22:02,287 - Saved checkpoint to "./tt/squeezenet-RGB-0081.params"
+2017-12-15 03:22:38,794 - Epoch[80] Validation-accuracy=0.988176
+2017-12-15 03:24:25,164 - Epoch[81] Batch [1000]	Speed: 2414.39 samples/sec	accuracy=0.999223
+2017-12-15 03:26:12,098 - Epoch[81] Batch [2000]	Speed: 2394.01 samples/sec	accuracy=0.999238
+2017-12-15 03:27:59,761 - Epoch[81] Batch [3000]	Speed: 2377.82 samples/sec	accuracy=0.999262
+2017-12-15 03:29:24,303 - Epoch[81] Train-accuracy=0.999205
+2017-12-15 03:29:24,304 - Epoch[81] Time cost=405.509
+2017-12-15 03:29:24,362 - Saved checkpoint to "./tt/squeezenet-RGB-0082.params"
+2017-12-15 03:30:00,346 - Epoch[81] Validation-accuracy=0.988243
+2017-12-15 03:31:46,100 - Epoch[82] Batch [1000]	Speed: 2426.46 samples/sec	accuracy=0.999220
+2017-12-15 03:33:32,779 - Epoch[82] Batch [2000]	Speed: 2399.76 samples/sec	accuracy=0.999242
+2017-12-15 03:35:17,565 - Epoch[82] Batch [3000]	Speed: 2443.09 samples/sec	accuracy=0.999305
+2017-12-15 03:36:40,373 - Epoch[82] Train-accuracy=0.999170
+2017-12-15 03:36:40,374 - Epoch[82] Time cost=400.027
+2017-12-15 03:36:40,432 - Saved checkpoint to "./tt/squeezenet-RGB-0083.params"
+2017-12-15 03:37:18,572 - Epoch[82] Validation-accuracy=0.985040
+2017-12-15 03:39:04,250 - Epoch[83] Batch [1000]	Speed: 2429.97 samples/sec	accuracy=0.999278
+2017-12-15 03:40:52,034 - Epoch[83] Batch [2000]	Speed: 2375.14 samples/sec	accuracy=0.999273
+2017-12-15 03:42:38,272 - Epoch[83] Batch [3000]	Speed: 2409.70 samples/sec	accuracy=0.999238
+2017-12-15 03:44:02,688 - Epoch[83] Train-accuracy=0.998965
+2017-12-15 03:44:02,688 - Epoch[83] Time cost=404.115
+2017-12-15 03:44:02,756 - Saved checkpoint to "./tt/squeezenet-RGB-0084.params"
+2017-12-15 03:44:39,432 - Epoch[83] Validation-accuracy=0.989545
+2017-12-15 03:46:28,408 - Epoch[84] Batch [1000]	Speed: 2356.52 samples/sec	accuracy=0.999317
+2017-12-15 03:48:15,938 - Epoch[84] Batch [2000]	Speed: 2380.74 samples/sec	accuracy=0.999188
+2017-12-15 03:50:03,364 - Epoch[84] Batch [3000]	Speed: 2383.06 samples/sec	accuracy=0.999293
+2017-12-15 03:51:28,038 - Epoch[84] Train-accuracy=0.999200
+2017-12-15 03:51:28,039 - Epoch[84] Time cost=408.606
+2017-12-15 03:51:28,097 - Saved checkpoint to "./tt/squeezenet-RGB-0085.params"
+2017-12-15 03:52:06,325 - Epoch[84] Validation-accuracy=0.989450
+2017-12-15 03:53:52,644 - Epoch[85] Batch [1000]	Speed: 2415.53 samples/sec	accuracy=0.999251
+2017-12-15 03:55:40,151 - Epoch[85] Batch [2000]	Speed: 2381.27 samples/sec	accuracy=0.999289
+2017-12-15 03:57:27,293 - Epoch[85] Batch [3000]	Speed: 2389.37 samples/sec	accuracy=0.999242
+2017-12-15 03:58:52,156 - Epoch[85] Train-accuracy=0.999209
+2017-12-15 03:58:52,156 - Epoch[85] Time cost=405.831
+2017-12-15 03:58:52,214 - Saved checkpoint to "./tt/squeezenet-RGB-0086.params"
+2017-12-15 03:59:29,696 - Epoch[85] Validation-accuracy=0.987682
+2017-12-15 04:01:15,004 - Epoch[86] Batch [1000]	Speed: 2438.67 samples/sec	accuracy=0.999317
+2017-12-15 04:03:01,569 - Epoch[86] Batch [2000]	Speed: 2402.31 samples/sec	accuracy=0.999215
+2017-12-15 04:04:47,946 - Epoch[86] Batch [3000]	Speed: 2406.56 samples/sec	accuracy=0.999363
+2017-12-15 04:06:11,608 - Epoch[86] Train-accuracy=0.999210
+2017-12-15 04:06:11,609 - Epoch[86] Time cost=401.912
+2017-12-15 04:06:11,667 - Saved checkpoint to "./tt/squeezenet-RGB-0087.params"
+2017-12-15 04:06:50,065 - Epoch[86] Validation-accuracy=0.989251
+2017-12-15 04:07:49,836 - Update[330001]: Change learning rate to 1.56905e-03
+2017-12-15 04:08:36,217 - Epoch[87] Batch [1000]	Speed: 2419.20 samples/sec	accuracy=0.999298
+2017-12-15 04:10:22,998 - Epoch[87] Batch [2000]	Speed: 2397.43 samples/sec	accuracy=0.999242
+2017-12-15 04:12:09,364 - Epoch[87] Batch [3000]	Speed: 2406.82 samples/sec	accuracy=0.999270
+2017-12-15 04:13:34,137 - Epoch[87] Train-accuracy=0.999209
+2017-12-15 04:13:34,137 - Epoch[87] Time cost=404.071
+2017-12-15 04:13:34,195 - Saved checkpoint to "./tt/squeezenet-RGB-0088.params"
+2017-12-15 04:14:10,629 - Epoch[87] Validation-accuracy=0.988281
+2017-12-15 04:15:56,059 - Epoch[88] Batch [1000]	Speed: 2434.68 samples/sec	accuracy=0.999321
+2017-12-15 04:17:44,041 - Epoch[88] Batch [2000]	Speed: 2370.78 samples/sec	accuracy=0.999344
+2017-12-15 04:19:32,371 - Epoch[88] Batch [3000]	Speed: 2363.18 samples/sec	accuracy=0.999344
+2017-12-15 04:20:56,843 - Epoch[88] Train-accuracy=0.999210
+2017-12-15 04:20:56,844 - Epoch[88] Time cost=406.215
+2017-12-15 04:20:56,901 - Saved checkpoint to "./tt/squeezenet-RGB-0089.params"
+2017-12-15 04:21:34,231 - Epoch[88] Validation-accuracy=0.988633
+2017-12-15 04:23:20,018 - Epoch[89] Batch [1000]	Speed: 2427.65 samples/sec	accuracy=0.999305
+2017-12-15 04:25:07,351 - Epoch[89] Batch [2000]	Speed: 2385.13 samples/sec	accuracy=0.999352
+2017-12-15 04:26:54,128 - Epoch[89] Batch [3000]	Speed: 2397.53 samples/sec	accuracy=0.999371
+2017-12-15 04:28:19,238 - Epoch[89] Train-accuracy=0.999308
+2017-12-15 04:28:19,239 - Epoch[89] Time cost=405.007
+2017-12-15 04:28:19,297 - Saved checkpoint to "./tt/squeezenet-RGB-0090.params"
+2017-12-15 04:28:56,897 - Epoch[89] Validation-accuracy=0.988205
+2017-12-15 04:30:44,160 - Epoch[90] Batch [1000]	Speed: 2394.27 samples/sec	accuracy=0.999309
+2017-12-15 04:32:30,089 - Epoch[90] Batch [2000]	Speed: 2416.72 samples/sec	accuracy=0.999434
+2017-12-15 04:34:16,547 - Epoch[90] Batch [3000]	Speed: 2404.74 samples/sec	accuracy=0.999406
+2017-12-15 04:35:40,724 - Epoch[90] Train-accuracy=0.999284
+2017-12-15 04:35:40,725 - Epoch[90] Time cost=403.827
+2017-12-15 04:35:40,782 - Saved checkpoint to "./tt/squeezenet-RGB-0091.params"
+2017-12-15 04:36:16,980 - Epoch[90] Validation-accuracy=0.987150
+2017-12-15 04:38:02,905 - Epoch[91] Batch [1000]	Speed: 2423.17 samples/sec	accuracy=0.999372
+2017-12-15 04:39:50,318 - Epoch[91] Batch [2000]	Speed: 2383.35 samples/sec	accuracy=0.999391
+2017-12-15 04:41:37,887 - Epoch[91] Batch [3000]	Speed: 2379.87 samples/sec	accuracy=0.999305
+2017-12-15 04:43:02,410 - Epoch[91] Train-accuracy=0.999230
+2017-12-15 04:43:02,410 - Epoch[91] Time cost=405.430
+2017-12-15 04:43:02,470 - Saved checkpoint to "./tt/squeezenet-RGB-0092.params"
+2017-12-15 04:43:41,175 - Epoch[91] Validation-accuracy=0.987226
+2017-12-15 04:45:27,332 - Epoch[92] Batch [1000]	Speed: 2419.33 samples/sec	accuracy=0.999383
+2017-12-15 04:47:14,254 - Epoch[92] Batch [2000]	Speed: 2394.30 samples/sec	accuracy=0.999355
+2017-12-15 04:49:01,704 - Epoch[92] Batch [3000]	Speed: 2382.51 samples/sec	accuracy=0.999340
+2017-12-15 04:50:27,177 - Epoch[92] Train-accuracy=0.999273
+2017-12-15 04:50:27,178 - Epoch[92] Time cost=406.002
+2017-12-15 04:50:27,236 - Saved checkpoint to "./tt/squeezenet-RGB-0093.params"
+2017-12-15 04:51:03,385 - Epoch[92] Validation-accuracy=0.988405
+2017-12-15 04:52:49,671 - Epoch[93] Batch [1000]	Speed: 2416.23 samples/sec	accuracy=0.999325
+2017-12-15 04:54:36,534 - Epoch[93] Batch [2000]	Speed: 2395.62 samples/sec	accuracy=0.999371
+2017-12-15 04:56:24,186 - Epoch[93] Batch [3000]	Speed: 2378.05 samples/sec	accuracy=0.999391
+2017-12-15 04:57:48,422 - Epoch[93] Train-accuracy=0.999299
+2017-12-15 04:57:48,423 - Epoch[93] Time cost=405.037
+2017-12-15 04:57:48,481 - Saved checkpoint to "./tt/squeezenet-RGB-0094.params"
+2017-12-15 04:58:26,965 - Epoch[93] Validation-accuracy=0.988367
+2017-12-15 05:00:12,839 - Epoch[94] Batch [1000]	Speed: 2425.48 samples/sec	accuracy=0.999411
+2017-12-15 05:01:59,841 - Epoch[94] Batch [2000]	Speed: 2392.50 samples/sec	accuracy=0.999445
+2017-12-15 05:03:47,369 - Epoch[94] Batch [3000]	Speed: 2380.78 samples/sec	accuracy=0.999309
+2017-12-15 05:05:11,520 - Epoch[94] Train-accuracy=0.999278
+2017-12-15 05:05:11,521 - Epoch[94] Time cost=404.555
+2017-12-15 05:05:11,578 - Saved checkpoint to "./tt/squeezenet-RGB-0095.params"
+2017-12-15 05:05:48,778 - Epoch[94] Validation-accuracy=0.989091
+2017-12-15 05:06:18,192 - Update[360001]: Change learning rate to 1.41215e-03
+2017-12-15 05:07:34,113 - Epoch[95] Batch [1000]	Speed: 2437.73 samples/sec	accuracy=0.999372
+2017-12-15 05:09:20,923 - Epoch[95] Batch [2000]	Speed: 2396.80 samples/sec	accuracy=0.999406
+2017-12-15 05:11:07,925 - Epoch[95] Batch [3000]	Speed: 2392.49 samples/sec	accuracy=0.999453
+2017-12-15 05:12:32,370 - Epoch[95] Train-accuracy=0.999314
+2017-12-15 05:12:32,370 - Epoch[95] Time cost=403.592
+2017-12-15 05:12:32,428 - Saved checkpoint to "./tt/squeezenet-RGB-0096.params"
+2017-12-15 05:13:08,643 - Epoch[95] Validation-accuracy=0.988034
+2017-12-15 05:14:53,976 - Epoch[96] Batch [1000]	Speed: 2437.98 samples/sec	accuracy=0.999411
+2017-12-15 05:16:40,795 - Epoch[96] Batch [2000]	Speed: 2396.60 samples/sec	accuracy=0.999383
+2017-12-15 05:18:28,923 - Epoch[96] Batch [3000]	Speed: 2367.58 samples/sec	accuracy=0.999398
+2017-12-15 05:19:52,758 - Epoch[96] Train-accuracy=0.999343
+2017-12-15 05:19:52,759 - Epoch[96] Time cost=404.114
+2017-12-15 05:19:52,817 - Saved checkpoint to "./tt/squeezenet-RGB-0097.params"
+2017-12-15 05:20:30,396 - Epoch[96] Validation-accuracy=0.988661
+2017-12-15 05:22:16,890 - Epoch[97] Batch [1000]	Speed: 2411.38 samples/sec	accuracy=0.999383
+2017-12-15 05:24:03,753 - Epoch[97] Batch [2000]	Speed: 2395.61 samples/sec	accuracy=0.999422
+2017-12-15 05:25:51,122 - Epoch[97] Batch [3000]	Speed: 2384.31 samples/sec	accuracy=0.999437
+2017-12-15 05:27:15,790 - Epoch[97] Train-accuracy=0.999359
+2017-12-15 05:27:15,790 - Epoch[97] Time cost=405.394
+2017-12-15 05:27:15,848 - Saved checkpoint to "./tt/squeezenet-RGB-0098.params"
+2017-12-15 05:27:52,628 - Epoch[97] Validation-accuracy=0.989061
+2017-12-15 05:29:38,954 - Epoch[98] Batch [1000]	Speed: 2415.28 samples/sec	accuracy=0.999391
+2017-12-15 05:31:24,631 - Epoch[98] Batch [2000]	Speed: 2422.49 samples/sec	accuracy=0.999453
+2017-12-15 05:33:12,406 - Epoch[98] Batch [3000]	Speed: 2375.33 samples/sec	accuracy=0.999484
+2017-12-15 05:34:36,115 - Epoch[98] Train-accuracy=0.999368
+2017-12-15 05:34:36,116 - Epoch[98] Time cost=403.488
+2017-12-15 05:34:36,174 - Saved checkpoint to "./tt/squeezenet-RGB-0099.params"
+2017-12-15 05:35:13,401 - Epoch[98] Validation-accuracy=0.989403
+2017-12-15 05:36:59,704 - Epoch[99] Batch [1000]	Speed: 2415.87 samples/sec	accuracy=0.999426
+2017-12-15 05:38:47,367 - Epoch[99] Batch [2000]	Speed: 2377.81 samples/sec	accuracy=0.999379
+2017-12-15 05:40:41,510 - Epoch[99] Batch [3000]	Speed: 2242.81 samples/sec	accuracy=0.999461
+2017-12-15 05:42:11,922 - Epoch[99] Train-accuracy=0.999274
+2017-12-15 05:42:11,923 - Epoch[99] Time cost=418.521
+2017-12-15 05:42:11,981 - Saved checkpoint to "./tt/squeezenet-RGB-0100.params"
+2017-12-15 05:42:59,683 - Epoch[99] Validation-accuracy=0.989365
+2017-12-15 11:36:01,024 - Epoch[0] Batch [1000]	Speed: 2170.64 samples/sec	accuracy=0.998900
+2017-12-15 11:37:55,409 - Epoch[0] Batch [2000]	Speed: 2238.72 samples/sec	accuracy=0.999066
+2017-12-15 11:39:51,220 - Epoch[0] Batch [3000]	Speed: 2210.51 samples/sec	accuracy=0.999031
+2017-12-15 11:41:21,445 - Epoch[0] Train-accuracy=0.999110
+2017-12-15 11:41:21,446 - Epoch[0] Time cost=443.281
+2017-12-15 11:41:21,607 - Saved checkpoint to "./tt/squeezenet-RGB-0001.params"
+2017-12-15 11:42:08,935 - Epoch[0] Validation-accuracy=0.987074
+2017-12-15 11:44:03,280 - Epoch[1] Batch [1000]	Speed: 2245.15 samples/sec	accuracy=0.999188
+2017-12-15 11:45:56,884 - Epoch[1] Batch [2000]	Speed: 2253.47 samples/sec	accuracy=0.999199
+2017-12-15 11:47:51,694 - Epoch[1] Batch [3000]	Speed: 2229.77 samples/sec	accuracy=0.999215
+2017-12-15 11:49:21,515 - Epoch[1] Train-accuracy=0.999255
+2017-12-15 11:49:21,515 - Epoch[1] Time cost=432.580
+2017-12-15 11:49:21,594 - Saved checkpoint to "./tt/squeezenet-RGB-0002.params"
+2017-12-15 11:50:04,833 - Epoch[1] Validation-accuracy=0.988053
+2017-12-15 11:51:59,111 - Epoch[2] Batch [1000]	Speed: 2246.77 samples/sec	accuracy=0.999239
+2017-12-15 11:53:53,075 - Epoch[2] Batch [2000]	Speed: 2246.70 samples/sec	accuracy=0.999172
+2017-12-15 11:55:47,089 - Epoch[2] Batch [3000]	Speed: 2245.37 samples/sec	accuracy=0.999336
+2017-12-15 11:57:17,452 - Epoch[2] Train-accuracy=0.999139
+2017-12-15 11:57:17,453 - Epoch[2] Time cost=432.619
+2017-12-15 11:57:17,609 - Saved checkpoint to "./tt/squeezenet-RGB-0003.params"
+2017-12-15 11:57:58,809 - Epoch[2] Validation-accuracy=0.987749
+2017-12-15 11:59:54,583 - Epoch[3] Batch [1000]	Speed: 2217.85 samples/sec	accuracy=0.999282
+2017-12-15 12:01:49,985 - Epoch[3] Batch [2000]	Speed: 2218.35 samples/sec	accuracy=0.999262
+2017-12-15 12:03:46,222 - Epoch[3] Batch [3000]	Speed: 2202.41 samples/sec	accuracy=0.999316
+2017-12-15 12:05:16,356 - Epoch[3] Train-accuracy=0.999215
+2017-12-15 12:05:16,356 - Epoch[3] Time cost=437.546
+2017-12-15 12:05:16,415 - Saved checkpoint to "./tt/squeezenet-RGB-0004.params"
+2017-12-15 12:05:58,431 - Epoch[3] Validation-accuracy=0.987397
+2017-12-15 12:07:54,683 - Epoch[4] Batch [1000]	Speed: 2208.55 samples/sec	accuracy=0.999305
+2017-12-15 12:09:49,021 - Epoch[4] Batch [2000]	Speed: 2238.98 samples/sec	accuracy=0.999285
+2017-12-15 12:11:44,751 - Epoch[4] Batch [3000]	Speed: 2212.07 samples/sec	accuracy=0.999359
+2017-12-15 12:13:15,297 - Epoch[4] Train-accuracy=0.999273
+2017-12-15 12:13:15,298 - Epoch[4] Time cost=436.866
+2017-12-15 12:13:15,356 - Saved checkpoint to "./tt/squeezenet-RGB-0005.params"
+2017-12-15 12:13:59,200 - Epoch[4] Validation-accuracy=0.988623
+2017-12-15 12:15:53,944 - Epoch[5] Batch [1000]	Speed: 2236.28 samples/sec	accuracy=0.999286
+2017-12-15 12:17:48,884 - Epoch[5] Batch [2000]	Speed: 2227.28 samples/sec	accuracy=0.999309
+2017-12-15 12:19:43,346 - Epoch[5] Batch [3000]	Speed: 2236.56 samples/sec	accuracy=0.999328
+2017-12-15 12:21:13,597 - Epoch[5] Train-accuracy=0.999255
+2017-12-15 12:21:13,598 - Epoch[5] Time cost=434.397
+2017-12-15 12:21:13,656 - Saved checkpoint to "./tt/squeezenet-RGB-0006.params"
+2017-12-15 12:21:54,230 - Epoch[5] Validation-accuracy=0.987682
+2017-12-15 12:23:49,080 - Epoch[6] Batch [1000]	Speed: 2235.30 samples/sec	accuracy=0.999270
+2017-12-15 12:25:43,528 - Epoch[6] Batch [2000]	Speed: 2236.85 samples/sec	accuracy=0.999352
+2017-12-15 12:27:37,246 - Epoch[6] Batch [3000]	Speed: 2251.18 samples/sec	accuracy=0.999371
+2017-12-15 12:29:07,417 - Epoch[6] Train-accuracy=0.999278
+2017-12-15 12:29:07,418 - Epoch[6] Time cost=433.187
+2017-12-15 12:29:07,477 - Saved checkpoint to "./tt/squeezenet-RGB-0007.params"
+2017-12-15 12:29:49,429 - Epoch[6] Validation-accuracy=0.989043
+2017-12-15 12:31:44,124 - Epoch[7] Batch [1000]	Speed: 2238.35 samples/sec	accuracy=0.999294
+2017-12-15 12:33:36,980 - Epoch[7] Batch [2000]	Speed: 2268.40 samples/sec	accuracy=0.999316
+2017-12-15 12:35:32,385 - Epoch[7] Batch [3000]	Speed: 2218.30 samples/sec	accuracy=0.999355
+2017-12-15 12:36:29,483 - Update[30001]: Change learning rate to 1.20000e-03
+2017-12-15 12:37:03,015 - Epoch[7] Train-accuracy=0.999240
+2017-12-15 12:37:03,015 - Epoch[7] Time cost=433.586
+2017-12-15 12:37:03,074 - Saved checkpoint to "./tt/squeezenet-RGB-0008.params"
+2017-12-15 12:37:44,440 - Epoch[7] Validation-accuracy=0.990306
+2017-12-15 12:39:39,981 - Epoch[8] Batch [1000]	Speed: 2221.90 samples/sec	accuracy=0.999352
+2017-12-15 12:41:34,885 - Epoch[8] Batch [2000]	Speed: 2227.96 samples/sec	accuracy=0.999379
+2017-12-15 12:43:29,611 - Epoch[8] Batch [3000]	Speed: 2231.42 samples/sec	accuracy=0.999367
+2017-12-15 12:44:59,641 - Epoch[8] Train-accuracy=0.999398
+2017-12-15 12:44:59,641 - Epoch[8] Time cost=435.201
+2017-12-15 12:44:59,707 - Saved checkpoint to "./tt/squeezenet-RGB-0009.params"
+2017-12-15 12:45:40,922 - Epoch[8] Validation-accuracy=0.989004
+2017-12-15 12:47:35,678 - Epoch[9] Batch [1000]	Speed: 2237.11 samples/sec	accuracy=0.999368
+2017-12-15 12:49:29,956 - Epoch[9] Batch [2000]	Speed: 2240.16 samples/sec	accuracy=0.999441
+2017-12-15 12:51:25,122 - Epoch[9] Batch [3000]	Speed: 2222.89 samples/sec	accuracy=0.999418
+2017-12-15 12:52:55,395 - Epoch[9] Train-accuracy=0.999304
+2017-12-15 12:52:55,395 - Epoch[9] Time cost=434.473
+2017-12-15 12:52:55,454 - Saved checkpoint to "./tt/squeezenet-RGB-0010.params"
+2017-12-15 12:53:37,939 - Epoch[9] Validation-accuracy=0.988614
+2017-12-15 12:55:32,131 - Epoch[10] Batch [1000]	Speed: 2248.28 samples/sec	accuracy=0.999387
+2017-12-15 12:57:25,941 - Epoch[10] Batch [2000]	Speed: 2249.36 samples/sec	accuracy=0.999496
+2017-12-15 12:59:20,079 - Epoch[10] Batch [3000]	Speed: 2242.92 samples/sec	accuracy=0.999441
+2017-12-15 13:00:49,128 - Epoch[10] Train-accuracy=0.999329
+2017-12-15 13:00:49,129 - Epoch[10] Time cost=431.190
+2017-12-15 13:00:49,188 - Saved checkpoint to "./tt/squeezenet-RGB-0011.params"
+2017-12-15 13:01:28,196 - Epoch[10] Validation-accuracy=0.987806
+2017-12-15 13:03:22,795 - Epoch[11] Batch [1000]	Speed: 2240.23 samples/sec	accuracy=0.999442
+2017-12-15 13:05:18,282 - Epoch[11] Batch [2000]	Speed: 2216.71 samples/sec	accuracy=0.999430
+2017-12-15 13:07:13,661 - Epoch[11] Batch [3000]	Speed: 2218.80 samples/sec	accuracy=0.999426
+2017-12-15 13:08:44,312 - Epoch[11] Train-accuracy=0.999348
+2017-12-15 13:08:44,313 - Epoch[11] Time cost=436.116
+2017-12-15 13:08:44,371 - Saved checkpoint to "./tt/squeezenet-RGB-0012.params"
+2017-12-15 13:09:24,652 - Epoch[11] Validation-accuracy=0.989944
+2017-12-15 13:11:19,247 - Epoch[12] Batch [1000]	Speed: 2240.35 samples/sec	accuracy=0.999364
+2017-12-15 13:13:14,325 - Epoch[12] Batch [2000]	Speed: 2224.59 samples/sec	accuracy=0.999445
+2017-12-15 13:15:07,894 - Epoch[12] Batch [3000]	Speed: 2254.16 samples/sec	accuracy=0.999457
+2017-12-15 13:16:37,951 - Epoch[12] Train-accuracy=0.999409
+2017-12-15 13:16:37,951 - Epoch[12] Time cost=433.299
+2017-12-15 13:16:38,011 - Saved checkpoint to "./tt/squeezenet-RGB-0013.params"
+2017-12-15 13:17:16,361 - Epoch[12] Validation-accuracy=0.987797
+2017-12-15 13:19:09,770 - Epoch[13] Batch [1000]	Speed: 2263.90 samples/sec	accuracy=0.999465
+2017-12-15 13:21:02,882 - Epoch[13] Batch [2000]	Speed: 2263.27 samples/sec	accuracy=0.999473
+2017-12-15 13:22:56,609 - Epoch[13] Batch [3000]	Speed: 2251.00 samples/sec	accuracy=0.999441
+2017-12-15 13:24:25,314 - Epoch[13] Train-accuracy=0.999482
+2017-12-15 13:24:25,315 - Epoch[13] Time cost=428.953
+2017-12-15 13:24:25,374 - Saved checkpoint to "./tt/squeezenet-RGB-0014.params"
+2017-12-15 13:25:04,933 - Epoch[13] Validation-accuracy=0.987471
+2017-12-15 13:26:58,186 - Epoch[14] Batch [1000]	Speed: 2266.94 samples/sec	accuracy=0.999403
+2017-12-15 13:28:50,616 - Epoch[14] Batch [2000]	Speed: 2276.99 samples/sec	accuracy=0.999422
+2017-12-15 13:30:43,938 - Epoch[14] Batch [3000]	Speed: 2259.05 samples/sec	accuracy=0.999461
+2017-12-15 13:32:12,695 - Epoch[14] Train-accuracy=0.999394
+2017-12-15 13:32:12,696 - Epoch[14] Time cost=427.762
+2017-12-15 13:32:12,754 - Saved checkpoint to "./tt/squeezenet-RGB-0015.params"
+2017-12-15 13:32:53,705 - Epoch[14] Validation-accuracy=0.988928
+2017-12-15 13:34:47,687 - Epoch[15] Batch [1000]	Speed: 2252.41 samples/sec	accuracy=0.999454
+2017-12-15 13:36:41,356 - Epoch[15] Batch [2000]	Speed: 2252.16 samples/sec	accuracy=0.999477
+2017-12-15 13:38:35,162 - Epoch[15] Batch [3000]	Speed: 2249.46 samples/sec	accuracy=0.999453
+2017-12-15 13:38:57,875 - Update[60001]: Change learning rate to 9.60000e-04
+2017-12-15 13:40:04,665 - Epoch[15] Train-accuracy=0.999373
+2017-12-15 13:40:04,666 - Epoch[15] Time cost=430.960
+2017-12-15 13:40:04,726 - Saved checkpoint to "./tt/squeezenet-RGB-0016.params"
+2017-12-15 13:40:46,041 - Epoch[15] Validation-accuracy=0.988101
+2017-12-15 13:42:40,112 - Epoch[16] Batch [1000]	Speed: 2250.77 samples/sec	accuracy=0.999508
+2017-12-15 13:44:35,247 - Epoch[16] Batch [2000]	Speed: 2223.48 samples/sec	accuracy=0.999504
+2017-12-15 13:46:29,552 - Epoch[16] Batch [3000]	Speed: 2239.64 samples/sec	accuracy=0.999496
+2017-12-15 13:47:59,902 - Epoch[16] Train-accuracy=0.999463
+2017-12-15 13:47:59,903 - Epoch[16] Time cost=433.861
+2017-12-15 13:47:59,962 - Saved checkpoint to "./tt/squeezenet-RGB-0017.params"
+2017-12-15 13:48:41,791 - Epoch[16] Validation-accuracy=0.989412
+2017-12-15 13:50:34,977 - Epoch[17] Batch [1000]	Speed: 2267.24 samples/sec	accuracy=0.999508
+2017-12-15 13:52:29,495 - Epoch[17] Batch [2000]	Speed: 2235.47 samples/sec	accuracy=0.999469
+2017-12-15 13:54:22,543 - Epoch[17] Batch [3000]	Speed: 2264.54 samples/sec	accuracy=0.999539
+2017-12-15 13:55:51,782 - Epoch[17] Train-accuracy=0.999393
+2017-12-15 13:55:51,782 - Epoch[17] Time cost=429.991
+2017-12-15 13:55:51,841 - Saved checkpoint to "./tt/squeezenet-RGB-0018.params"
+2017-12-15 13:56:35,007 - Epoch[17] Validation-accuracy=0.988034
+2017-12-15 13:58:29,430 - Epoch[18] Batch [1000]	Speed: 2243.96 samples/sec	accuracy=0.999504
+2017-12-15 14:00:22,937 - Epoch[18] Batch [2000]	Speed: 2255.39 samples/sec	accuracy=0.999598
+2017-12-15 14:02:17,282 - Epoch[18] Batch [3000]	Speed: 2238.85 samples/sec	accuracy=0.999488
+2017-12-15 14:03:47,582 - Epoch[18] Train-accuracy=0.999409
+2017-12-15 14:03:47,583 - Epoch[18] Time cost=432.575
+2017-12-15 14:03:47,642 - Saved checkpoint to "./tt/squeezenet-RGB-0019.params"
+2017-12-15 14:04:27,924 - Epoch[18] Validation-accuracy=0.988690
+2017-12-15 14:06:22,725 - Epoch[19] Batch [1000]	Speed: 2236.36 samples/sec	accuracy=0.999481
+2017-12-15 14:08:17,245 - Epoch[19] Batch [2000]	Speed: 2235.44 samples/sec	accuracy=0.999543
+2017-12-15 14:10:12,199 - Epoch[19] Batch [3000]	Speed: 2226.99 samples/sec	accuracy=0.999512
+2017-12-15 14:11:42,824 - Epoch[19] Train-accuracy=0.999493
+2017-12-15 14:11:42,825 - Epoch[19] Time cost=434.901
+2017-12-15 14:11:42,883 - Saved checkpoint to "./tt/squeezenet-RGB-0020.params"
+2017-12-15 14:12:25,300 - Epoch[19] Validation-accuracy=0.989298
+2017-12-15 14:14:19,405 - Epoch[20] Batch [1000]	Speed: 2250.16 samples/sec	accuracy=0.999516
+2017-12-15 14:16:13,414 - Epoch[20] Batch [2000]	Speed: 2245.46 samples/sec	accuracy=0.999563
+2017-12-15 14:18:08,711 - Epoch[20] Batch [3000]	Speed: 2220.36 samples/sec	accuracy=0.999500
+2017-12-15 14:19:37,968 - Epoch[20] Train-accuracy=0.999438
+2017-12-15 14:19:37,968 - Epoch[20] Time cost=432.668
+2017-12-15 14:19:38,027 - Saved checkpoint to "./tt/squeezenet-RGB-0021.params"
+2017-12-15 14:20:19,901 - Epoch[20] Validation-accuracy=0.987748
+2017-12-15 14:22:14,897 - Epoch[21] Batch [1000]	Speed: 2232.47 samples/sec	accuracy=0.999524
+2017-12-15 14:24:16,976 - Epoch[21] Batch [2000]	Speed: 2097.01 samples/sec	accuracy=0.999531
+2017-12-15 14:26:10,219 - Epoch[21] Batch [3000]	Speed: 2260.64 samples/sec	accuracy=0.999531
+2017-12-15 14:27:37,957 - Epoch[21] Train-accuracy=0.999518
+2017-12-15 14:27:37,957 - Epoch[21] Time cost=438.056
+2017-12-15 14:27:38,019 - Saved checkpoint to "./tt/squeezenet-RGB-0022.params"
+2017-12-15 14:28:16,581 - Epoch[21] Validation-accuracy=0.987987
+2017-12-15 14:30:08,703 - Epoch[22] Batch [1000]	Speed: 2289.88 samples/sec	accuracy=0.999493
+2017-12-15 14:32:02,937 - Epoch[22] Batch [2000]	Speed: 2241.02 samples/sec	accuracy=0.999574
+2017-12-15 14:33:58,056 - Epoch[22] Batch [3000]	Speed: 2223.80 samples/sec	accuracy=0.999539
+2017-12-15 14:35:27,657 - Epoch[22] Train-accuracy=0.999478
+2017-12-15 14:35:27,658 - Epoch[22] Time cost=431.076
+2017-12-15 14:35:27,717 - Saved checkpoint to "./tt/squeezenet-RGB-0023.params"
+2017-12-15 14:36:08,541 - Epoch[22] Validation-accuracy=0.989042
+2017-12-15 14:38:02,258 - Epoch[23] Batch [1000]	Speed: 2257.73 samples/sec	accuracy=0.999536
+2017-12-15 14:39:55,929 - Epoch[23] Batch [2000]	Speed: 2252.11 samples/sec	accuracy=0.999559
+2017-12-15 14:41:40,956 - Update[90001]: Change learning rate to 7.68000e-04
+2017-12-15 14:41:51,278 - Epoch[23] Batch [3000]	Speed: 2219.37 samples/sec	accuracy=0.999555
+2017-12-15 14:43:20,769 - Epoch[23] Train-accuracy=0.999513
+2017-12-15 14:43:20,769 - Epoch[23] Time cost=432.228
+2017-12-15 14:43:20,828 - Saved checkpoint to "./tt/squeezenet-RGB-0024.params"
+2017-12-15 14:44:04,015 - Epoch[23] Validation-accuracy=0.988243
+2017-12-15 14:45:57,584 - Epoch[24] Batch [1000]	Speed: 2260.65 samples/sec	accuracy=0.999586
+2017-12-15 14:47:55,079 - Epoch[24] Batch [2000]	Speed: 2178.83 samples/sec	accuracy=0.999547
+2017-12-15 14:49:47,989 - Epoch[24] Batch [3000]	Speed: 2267.32 samples/sec	accuracy=0.999461
+2017-12-15 14:51:17,948 - Epoch[24] Train-accuracy=0.999527
+2017-12-15 14:51:17,948 - Epoch[24] Time cost=433.932
+2017-12-15 14:51:18,007 - Saved checkpoint to "./tt/squeezenet-RGB-0025.params"
+2017-12-15 14:51:58,748 - Epoch[24] Validation-accuracy=0.987996
+2017-12-15 14:53:53,102 - Epoch[25] Batch [1000]	Speed: 2244.98 samples/sec	accuracy=0.999540
+2017-12-15 14:55:47,257 - Epoch[25] Batch [2000]	Speed: 2242.59 samples/sec	accuracy=0.999551
+2017-12-15 14:57:45,803 - Epoch[25] Batch [3000]	Speed: 2159.50 samples/sec	accuracy=0.999570
+2017-12-15 14:59:22,317 - Epoch[25] Train-accuracy=0.999528
+2017-12-15 14:59:22,318 - Epoch[25] Time cost=443.569
+2017-12-15 14:59:22,377 - Saved checkpoint to "./tt/squeezenet-RGB-0026.params"
+2017-12-15 15:00:04,131 - Epoch[25] Validation-accuracy=0.988025
+2017-12-15 15:01:58,023 - Epoch[26] Batch [1000]	Speed: 2254.10 samples/sec	accuracy=0.999602
+2017-12-15 15:03:51,285 - Epoch[26] Batch [2000]	Speed: 2260.26 samples/sec	accuracy=0.999547
+2017-12-15 15:05:43,944 - Epoch[26] Batch [3000]	Speed: 2272.36 samples/sec	accuracy=0.999594
+2017-12-15 15:07:13,931 - Epoch[26] Train-accuracy=0.999537
+2017-12-15 15:07:13,932 - Epoch[26] Time cost=429.800
+2017-12-15 15:07:13,991 - Saved checkpoint to "./tt/squeezenet-RGB-0027.params"
+2017-12-15 15:07:55,389 - Epoch[26] Validation-accuracy=0.988005
+2017-12-15 15:09:48,882 - Epoch[27] Batch [1000]	Speed: 2262.50 samples/sec	accuracy=0.999508
+2017-12-15 15:11:43,550 - Epoch[27] Batch [2000]	Speed: 2232.54 samples/sec	accuracy=0.999555
+2017-12-15 15:13:37,666 - Epoch[27] Batch [3000]	Speed: 2243.35 samples/sec	accuracy=0.999516
+2017-12-15 15:15:08,523 - Epoch[27] Train-accuracy=0.999493
+2017-12-15 15:15:08,524 - Epoch[27] Time cost=433.134
+2017-12-15 15:15:08,589 - Saved checkpoint to "./tt/squeezenet-RGB-0028.params"
+2017-12-15 15:15:48,767 - Epoch[27] Validation-accuracy=0.988386
+2017-12-15 15:17:43,579 - Epoch[28] Batch [1000]	Speed: 2236.35 samples/sec	accuracy=0.999594
+2017-12-15 15:19:38,955 - Epoch[28] Batch [2000]	Speed: 2218.84 samples/sec	accuracy=0.999609
+2017-12-15 15:21:34,901 - Epoch[28] Batch [3000]	Speed: 2207.95 samples/sec	accuracy=0.999609
+2017-12-15 15:23:04,773 - Epoch[28] Train-accuracy=0.999518
+2017-12-15 15:23:04,774 - Epoch[28] Time cost=436.006
+2017-12-15 15:23:04,835 - Saved checkpoint to "./tt/squeezenet-RGB-0029.params"
+2017-12-15 15:23:45,463 - Epoch[28] Validation-accuracy=0.989735
+2017-12-15 15:25:39,348 - Epoch[29] Batch [1000]	Speed: 2254.23 samples/sec	accuracy=0.999555
+2017-12-15 15:27:34,539 - Epoch[29] Batch [2000]	Speed: 2222.41 samples/sec	accuracy=0.999613
+2017-12-15 15:29:29,069 - Epoch[29] Batch [3000]	Speed: 2235.24 samples/sec	accuracy=0.999559
+2017-12-15 15:30:59,568 - Epoch[29] Train-accuracy=0.999532
+2017-12-15 15:30:59,568 - Epoch[29] Time cost=434.105
+2017-12-15 15:30:59,656 - Saved checkpoint to "./tt/squeezenet-RGB-0030.params"
+2017-12-15 15:31:38,961 - Epoch[29] Validation-accuracy=0.989773
+2017-12-15 15:33:34,461 - Epoch[30] Batch [1000]	Speed: 2223.56 samples/sec	accuracy=0.999571
+2017-12-15 15:35:25,660 - Epoch[30] Batch [2000]	Speed: 2302.20 samples/sec	accuracy=0.999617
+2017-12-15 15:37:20,040 - Epoch[30] Batch [3000]	Speed: 2238.16 samples/sec	accuracy=0.999574
+2017-12-15 15:38:49,656 - Epoch[30] Train-accuracy=0.999543
+2017-12-15 15:38:49,657 - Epoch[30] Time cost=430.696
+2017-12-15 15:38:49,718 - Saved checkpoint to "./tt/squeezenet-RGB-0031.params"
+2017-12-15 15:39:28,867 - Epoch[30] Validation-accuracy=0.990192
+2017-12-15 15:41:23,575 - Epoch[31] Batch [1000]	Speed: 2238.10 samples/sec	accuracy=0.999582
+2017-12-15 15:43:17,291 - Epoch[31] Batch [2000]	Speed: 2251.24 samples/sec	accuracy=0.999645
+2017-12-15 15:44:27,324 - Update[120001]: Change learning rate to 6.14400e-04
+2017-12-15 15:45:12,456 - Epoch[31] Batch [3000]	Speed: 2222.92 samples/sec	accuracy=0.999660
+2017-12-15 15:46:39,696 - Epoch[31] Train-accuracy=0.999682
+2017-12-15 15:46:39,697 - Epoch[31] Time cost=430.829
+2017-12-15 15:46:39,755 - Saved checkpoint to "./tt/squeezenet-RGB-0032.params"
+2017-12-15 15:47:20,338 - Epoch[31] Validation-accuracy=0.988310
+2017-12-15 15:49:13,698 - Epoch[32] Batch [1000]	Speed: 2264.70 samples/sec	accuracy=0.999563
+2017-12-15 15:51:07,383 - Epoch[32] Batch [2000]	Speed: 2251.84 samples/sec	accuracy=0.999617
+2017-12-15 15:53:02,295 - Epoch[32] Batch [3000]	Speed: 2227.81 samples/sec	accuracy=0.999539
+2017-12-15 15:54:32,160 - Epoch[32] Train-accuracy=0.999523
+2017-12-15 15:54:32,160 - Epoch[32] Time cost=431.822
+2017-12-15 15:54:32,221 - Saved checkpoint to "./tt/squeezenet-RGB-0033.params"
+2017-12-15 15:55:13,334 - Epoch[32] Validation-accuracy=0.989983
+2017-12-15 15:57:08,150 - Epoch[33] Batch [1000]	Speed: 2235.99 samples/sec	accuracy=0.999547
+2017-12-15 15:59:01,444 - Epoch[33] Batch [2000]	Speed: 2259.61 samples/sec	accuracy=0.999684
+2017-12-15 16:00:57,433 - Epoch[33] Batch [3000]	Speed: 2209.39 samples/sec	accuracy=0.999617
+2017-12-15 16:02:38,538 - Epoch[33] Train-accuracy=0.999577
+2017-12-15 16:02:40,758 - Epoch[33] Time cost=447.423
+2017-12-15 16:02:45,266 - Saved checkpoint to "./tt/squeezenet-RGB-0034.params"
+2017-12-15 16:25:01,728 - Epoch[33] Validation-accuracy=0.989167
+2017-12-15 16:27:59,932 - Epoch[34] Batch [1000]	Speed: 1503.01 samples/sec	accuracy=0.999668
+2017-12-15 16:29:48,793 - Epoch[34] Batch [2000]	Speed: 2351.67 samples/sec	accuracy=0.999641
+2017-12-15 16:31:38,585 - Epoch[34] Batch [3000]	Speed: 2331.71 samples/sec	accuracy=0.999617
+2017-12-15 16:33:03,873 - Epoch[34] Train-accuracy=0.999523
+2017-12-15 16:33:03,874 - Epoch[34] Time cost=482.131
+2017-12-15 16:33:04,333 - Saved checkpoint to "./tt/squeezenet-RGB-0035.params"
+2017-12-15 16:33:43,692 - Epoch[34] Validation-accuracy=0.990249
+2017-12-15 16:35:32,872 - Epoch[35] Batch [1000]	Speed: 2350.35 samples/sec	accuracy=0.999602
+2017-12-15 16:37:22,924 - Epoch[35] Batch [2000]	Speed: 2326.20 samples/sec	accuracy=0.999680
+2017-12-15 16:39:13,472 - Epoch[35] Batch [3000]	Speed: 2315.74 samples/sec	accuracy=0.999680
+2017-12-15 16:40:42,169 - Epoch[35] Train-accuracy=0.999512
+2017-12-15 16:40:42,169 - Epoch[35] Time cost=418.477
+2017-12-15 16:40:42,228 - Saved checkpoint to "./tt/squeezenet-RGB-0036.params"
+2017-12-15 16:41:23,783 - Epoch[35] Validation-accuracy=0.988348
+2017-12-15 16:43:13,273 - Epoch[36] Batch [1000]	Speed: 2344.37 samples/sec	accuracy=0.999594
+2017-12-15 16:45:05,842 - Epoch[36] Batch [2000]	Speed: 2274.16 samples/sec	accuracy=0.999621
+2017-12-15 16:47:01,567 - Epoch[36] Batch [3000]	Speed: 2212.15 samples/sec	accuracy=0.999551
+2017-12-15 16:48:29,979 - Epoch[36] Train-accuracy=0.999573
+2017-12-15 16:48:29,980 - Epoch[36] Time cost=426.196
+2017-12-15 16:48:30,037 - Saved checkpoint to "./tt/squeezenet-RGB-0037.params"
+2017-12-15 16:49:10,024 - Epoch[36] Validation-accuracy=0.989745
+2017-12-15 16:51:05,722 - Epoch[37] Batch [1000]	Speed: 2218.49 samples/sec	accuracy=0.999614
+2017-12-15 16:53:02,399 - Epoch[37] Batch [2000]	Speed: 2194.10 samples/sec	accuracy=0.999645
+2017-12-15 16:54:59,977 - Epoch[37] Batch [3000]	Speed: 2177.30 samples/sec	accuracy=0.999672
+2017-12-15 16:56:32,816 - Epoch[37] Train-accuracy=0.999622
+2017-12-15 16:56:32,817 - Epoch[37] Time cost=442.792
+2017-12-15 16:56:32,875 - Saved checkpoint to "./tt/squeezenet-RGB-0038.params"
+2017-12-15 16:57:13,241 - Epoch[37] Validation-accuracy=0.989821
+2017-12-15 16:59:02,317 - Epoch[38] Batch [1000]	Speed: 2354.39 samples/sec	accuracy=0.999579
+2017-12-15 17:00:54,047 - Epoch[38] Batch [2000]	Speed: 2291.24 samples/sec	accuracy=0.999594
+2017-12-15 17:02:45,071 - Epoch[38] Batch [3000]	Speed: 2305.82 samples/sec	accuracy=0.999687
+2017-12-15 17:04:12,674 - Epoch[38] Train-accuracy=0.999572
+2017-12-15 17:04:12,675 - Epoch[38] Time cost=419.433
+2017-12-15 17:04:12,785 - Saved checkpoint to "./tt/squeezenet-RGB-0039.params"
+2017-12-15 17:04:53,745 - Epoch[38] Validation-accuracy=0.988890
+2017-12-15 17:06:43,949 - Epoch[39] Batch [1000]	Speed: 2329.86 samples/sec	accuracy=0.999582
+2017-12-15 17:08:35,136 - Epoch[39] Batch [2000]	Speed: 2302.45 samples/sec	accuracy=0.999625
+2017-12-15 17:09:11,116 - Update[150001]: Change learning rate to 4.91520e-04
+2017-12-15 17:10:26,741 - Epoch[39] Batch [3000]	Speed: 2293.82 samples/sec	accuracy=0.999613
+2017-12-15 17:11:53,793 - Epoch[39] Train-accuracy=0.999538
+2017-12-15 17:11:53,794 - Epoch[39] Time cost=420.048
+2017-12-15 17:11:53,857 - Saved checkpoint to "./tt/squeezenet-RGB-0040.params"
+2017-12-15 17:12:33,622 - Epoch[39] Validation-accuracy=0.987578
+2017-12-15 17:14:24,305 - Epoch[40] Batch [1000]	Speed: 2319.88 samples/sec	accuracy=0.999633
+2017-12-15 17:16:15,856 - Epoch[40] Batch [2000]	Speed: 2294.95 samples/sec	accuracy=0.999652
+2017-12-15 17:18:08,123 - Epoch[40] Batch [3000]	Speed: 2280.33 samples/sec	accuracy=0.999629
+2017-12-15 17:19:35,510 - Epoch[40] Train-accuracy=0.999572
+2017-12-15 17:19:35,512 - Epoch[40] Time cost=421.890
+2017-12-15 17:19:35,569 - Saved checkpoint to "./tt/squeezenet-RGB-0041.params"
+2017-12-15 17:20:16,810 - Epoch[40] Validation-accuracy=0.988310
+2017-12-15 17:22:08,826 - Epoch[41] Batch [1000]	Speed: 2292.17 samples/sec	accuracy=0.999649
+2017-12-15 17:24:00,710 - Epoch[41] Batch [2000]	Speed: 2288.11 samples/sec	accuracy=0.999687
+2017-12-15 17:25:53,368 - Epoch[41] Batch [3000]	Speed: 2272.37 samples/sec	accuracy=0.999645
+2017-12-15 17:27:21,179 - Epoch[41] Train-accuracy=0.999578
+2017-12-15 17:27:21,179 - Epoch[41] Time cost=424.369
+2017-12-15 17:27:21,237 - Saved checkpoint to "./tt/squeezenet-RGB-0042.params"
+2017-12-15 17:28:02,785 - Epoch[41] Validation-accuracy=0.988728
+2017-12-15 17:29:54,209 - Epoch[42] Batch [1000]	Speed: 2304.38 samples/sec	accuracy=0.999606
+2017-12-15 17:31:46,299 - Epoch[42] Batch [2000]	Speed: 2283.90 samples/sec	accuracy=0.999613
+2017-12-15 17:33:38,459 - Epoch[42] Batch [3000]	Speed: 2282.47 samples/sec	accuracy=0.999633
+2017-12-15 17:35:02,905 - Epoch[42] Train-accuracy=0.999592
+2017-12-15 17:35:02,905 - Epoch[42] Time cost=420.120
+2017-12-15 17:35:02,963 - Saved checkpoint to "./tt/squeezenet-RGB-0043.params"
+2017-12-15 17:35:44,000 - Epoch[42] Validation-accuracy=0.989023
+2017-12-15 17:37:36,382 - Epoch[43] Batch [1000]	Speed: 2285.41 samples/sec	accuracy=0.999598
+2017-12-15 17:39:28,332 - Epoch[43] Batch [2000]	Speed: 2286.75 samples/sec	accuracy=0.999633
+2017-12-15 17:41:20,126 - Epoch[43] Batch [3000]	Speed: 2289.93 samples/sec	accuracy=0.999629
+2017-12-15 17:42:47,812 - Epoch[43] Train-accuracy=0.999662
+2017-12-15 17:42:47,812 - Epoch[43] Time cost=423.811
+2017-12-15 17:42:47,874 - Saved checkpoint to "./tt/squeezenet-RGB-0044.params"
+2017-12-15 17:43:31,183 - Epoch[43] Validation-accuracy=0.989479
+2017-12-15 17:45:22,208 - Epoch[44] Batch [1000]	Speed: 2312.98 samples/sec	accuracy=0.999629
+2017-12-15 17:47:15,084 - Epoch[44] Batch [2000]	Speed: 2267.98 samples/sec	accuracy=0.999652
+2017-12-15 17:49:06,126 - Epoch[44] Batch [3000]	Speed: 2305.46 samples/sec	accuracy=0.999621
+2017-12-15 17:50:32,929 - Epoch[44] Train-accuracy=0.999652
+2017-12-15 17:50:32,929 - Epoch[44] Time cost=421.745
+2017-12-15 17:50:32,987 - Saved checkpoint to "./tt/squeezenet-RGB-0045.params"
+2017-12-15 17:51:15,094 - Epoch[44] Validation-accuracy=0.989431
+2017-12-15 17:53:05,402 - Epoch[45] Batch [1000]	Speed: 2327.56 samples/sec	accuracy=0.999684
+2017-12-15 17:54:57,212 - Epoch[45] Batch [2000]	Speed: 2289.63 samples/sec	accuracy=0.999668
+2017-12-15 17:56:47,102 - Epoch[45] Batch [3000]	Speed: 2329.61 samples/sec	accuracy=0.999605
+2017-12-15 17:58:13,382 - Epoch[45] Train-accuracy=0.999612
+2017-12-15 17:58:13,382 - Epoch[45] Time cost=418.287
+2017-12-15 17:58:13,444 - Saved checkpoint to "./tt/squeezenet-RGB-0046.params"
+2017-12-15 17:58:51,558 - Epoch[45] Validation-accuracy=0.989222
+2017-12-15 18:00:42,141 - Epoch[46] Batch [1000]	Speed: 2321.87 samples/sec	accuracy=0.999637
+2017-12-15 18:02:32,713 - Epoch[46] Batch [2000]	Speed: 2315.24 samples/sec	accuracy=0.999672
+2017-12-15 18:04:23,593 - Epoch[46] Batch [3000]	Speed: 2308.82 samples/sec	accuracy=0.999625
+2017-12-15 18:05:51,147 - Epoch[46] Train-accuracy=0.999652
+2017-12-15 18:05:51,147 - Epoch[46] Time cost=419.588
+2017-12-15 18:05:51,226 - Saved checkpoint to "./tt/squeezenet-RGB-0047.params"
+2017-12-15 18:06:32,442 - Epoch[46] Validation-accuracy=0.987939
+2017-12-15 18:08:24,557 - Epoch[47] Batch [1000]	Speed: 2290.03 samples/sec	accuracy=0.999653
+2017-12-15 18:10:16,951 - Epoch[47] Batch [2000]	Speed: 2277.71 samples/sec	accuracy=0.999672
+2017-12-15 18:10:20,285 - Update[180001]: Change learning rate to 3.93216e-04
+2017-12-15 18:12:08,976 - Epoch[47] Batch [3000]	Speed: 2285.23 samples/sec	accuracy=0.999598
+2017-12-15 18:13:36,849 - Epoch[47] Train-accuracy=0.999647
+2017-12-15 18:13:36,850 - Epoch[47] Time cost=424.407
+2017-12-15 18:13:36,907 - Saved checkpoint to "./tt/squeezenet-RGB-0048.params"
+2017-12-15 18:14:16,883 - Epoch[47] Validation-accuracy=0.988377
+2017-12-15 18:16:07,558 - Epoch[48] Batch [1000]	Speed: 2320.09 samples/sec	accuracy=0.999703
+2017-12-15 18:18:00,373 - Epoch[48] Batch [2000]	Speed: 2269.22 samples/sec	accuracy=0.999719
+2017-12-15 18:19:52,753 - Epoch[48] Batch [3000]	Speed: 2278.00 samples/sec	accuracy=0.999625
+2017-12-15 18:21:21,103 - Epoch[48] Train-accuracy=0.999652
+2017-12-15 18:21:21,104 - Epoch[48] Time cost=424.220
+2017-12-15 18:21:21,161 - Saved checkpoint to "./tt/squeezenet-RGB-0049.params"
+2017-12-15 18:21:59,920 - Epoch[48] Validation-accuracy=0.988880
+2017-12-15 18:23:51,303 - Epoch[49] Batch [1000]	Speed: 2305.25 samples/sec	accuracy=0.999680
+2017-12-15 18:25:43,313 - Epoch[49] Batch [2000]	Speed: 2285.51 samples/sec	accuracy=0.999711
+2017-12-15 18:27:35,012 - Epoch[49] Batch [3000]	Speed: 2291.89 samples/sec	accuracy=0.999672
+2017-12-15 18:29:03,760 - Epoch[49] Train-accuracy=0.999597
+2017-12-15 18:29:03,761 - Epoch[49] Time cost=423.840
+2017-12-15 18:29:03,819 - Saved checkpoint to "./tt/squeezenet-RGB-0050.params"
+2017-12-15 18:29:41,694 - Epoch[49] Validation-accuracy=0.988595
+2017-12-15 18:31:32,819 - Epoch[50] Batch [1000]	Speed: 2310.33 samples/sec	accuracy=0.999660
+2017-12-15 18:33:25,236 - Epoch[50] Batch [2000]	Speed: 2277.25 samples/sec	accuracy=0.999711
+2017-12-15 18:35:17,102 - Epoch[50] Batch [3000]	Speed: 2288.45 samples/sec	accuracy=0.999613
+2017-12-15 18:36:45,224 - Epoch[50] Train-accuracy=0.999692
+2017-12-15 18:36:45,224 - Epoch[50] Time cost=423.530
+2017-12-15 18:36:45,284 - Saved checkpoint to "./tt/squeezenet-RGB-0051.params"
+2017-12-15 18:37:26,426 - Epoch[50] Validation-accuracy=0.988367
+2017-12-15 18:39:17,709 - Epoch[51] Batch [1000]	Speed: 2307.24 samples/sec	accuracy=0.999696
+2017-12-15 18:41:09,634 - Epoch[51] Batch [2000]	Speed: 2287.26 samples/sec	accuracy=0.999656
+2017-12-15 18:43:02,625 - Epoch[51] Batch [3000]	Speed: 2265.69 samples/sec	accuracy=0.999656
+2017-12-15 18:44:30,369 - Epoch[51] Train-accuracy=0.999652
+2017-12-15 18:44:30,369 - Epoch[51] Time cost=423.943
+2017-12-15 18:44:30,428 - Saved checkpoint to "./tt/squeezenet-RGB-0052.params"
+2017-12-15 18:45:08,956 - Epoch[51] Validation-accuracy=0.988994
+2017-12-15 18:47:00,010 - Epoch[52] Batch [1000]	Speed: 2312.09 samples/sec	accuracy=0.999719
+2017-12-15 18:48:51,962 - Epoch[52] Batch [2000]	Speed: 2286.72 samples/sec	accuracy=0.999648
+2017-12-15 18:50:43,410 - Epoch[52] Batch [3000]	Speed: 2297.05 samples/sec	accuracy=0.999668
+2017-12-15 18:52:12,066 - Epoch[52] Train-accuracy=0.999637
+2017-12-15 18:52:12,066 - Epoch[52] Time cost=423.109
+2017-12-15 18:52:12,125 - Saved checkpoint to "./tt/squeezenet-RGB-0053.params"
+2017-12-15 18:52:52,977 - Epoch[52] Validation-accuracy=0.988890
+2017-12-15 18:54:44,083 - Epoch[53] Batch [1000]	Speed: 2310.99 samples/sec	accuracy=0.999629
+2017-12-15 18:56:36,181 - Epoch[53] Batch [2000]	Speed: 2283.73 samples/sec	accuracy=0.999691
+2017-12-15 18:58:28,329 - Epoch[53] Batch [3000]	Speed: 2282.71 samples/sec	accuracy=0.999676
+2017-12-15 18:59:56,672 - Epoch[53] Train-accuracy=0.999642
+2017-12-15 18:59:56,673 - Epoch[53] Time cost=423.695
+2017-12-15 18:59:56,731 - Saved checkpoint to "./tt/squeezenet-RGB-0054.params"
+2017-12-15 19:00:38,240 - Epoch[53] Validation-accuracy=0.989015
+2017-12-15 19:02:29,679 - Epoch[54] Batch [1000]	Speed: 2303.91 samples/sec	accuracy=0.999657
+2017-12-15 19:04:21,386 - Epoch[54] Batch [2000]	Speed: 2291.72 samples/sec	accuracy=0.999699
+2017-12-15 19:06:13,248 - Epoch[54] Batch [3000]	Speed: 2288.54 samples/sec	accuracy=0.999641
+2017-12-15 19:07:41,167 - Epoch[54] Train-accuracy=0.999588
+2017-12-15 19:07:41,172 - Epoch[54] Time cost=422.931
+2017-12-15 19:07:41,226 - Saved checkpoint to "./tt/squeezenet-RGB-0055.params"
+2017-12-15 19:08:24,266 - Epoch[54] Validation-accuracy=0.988490
+2017-12-15 19:10:15,409 - Epoch[55] Batch [1000]	Speed: 2310.06 samples/sec	accuracy=0.999700
+2017-12-15 19:11:38,728 - Update[210001]: Change learning rate to 3.14573e-04
+2017-12-15 19:12:08,971 - Epoch[55] Batch [2000]	Speed: 2254.29 samples/sec	accuracy=0.999703
+2017-12-15 19:14:00,729 - Epoch[55] Batch [3000]	Speed: 2290.68 samples/sec	accuracy=0.999656
+2017-12-15 19:15:29,127 - Epoch[55] Train-accuracy=0.999642
+2017-12-15 19:15:29,127 - Epoch[55] Time cost=424.861
+2017-12-15 19:15:29,223 - Saved checkpoint to "./tt/squeezenet-RGB-0056.params"
+2017-12-15 19:16:11,257 - Epoch[55] Validation-accuracy=0.989165
+2017-12-15 19:18:02,992 - Epoch[56] Batch [1000]	Speed: 2297.83 samples/sec	accuracy=0.999637
+2017-12-15 19:19:55,189 - Epoch[56] Batch [2000]	Speed: 2281.70 samples/sec	accuracy=0.999687
+2017-12-15 19:21:46,307 - Epoch[56] Batch [3000]	Speed: 2303.88 samples/sec	accuracy=0.999687
+2017-12-15 19:23:14,688 - Epoch[56] Train-accuracy=0.999602
+2017-12-15 19:23:14,688 - Epoch[56] Time cost=423.431
+2017-12-15 19:23:14,790 - Saved checkpoint to "./tt/squeezenet-RGB-0057.params"
+2017-12-15 19:23:55,095 - Epoch[56] Validation-accuracy=0.989279
+2017-12-15 19:25:46,359 - Epoch[57] Batch [1000]	Speed: 2307.53 samples/sec	accuracy=0.999723
+2017-12-15 19:27:39,539 - Epoch[57] Batch [2000]	Speed: 2261.90 samples/sec	accuracy=0.999695
+2017-12-15 19:29:31,765 - Epoch[57] Batch [3000]	Speed: 2281.12 samples/sec	accuracy=0.999625
+2017-12-15 19:31:00,005 - Epoch[57] Train-accuracy=0.999607
+2017-12-15 19:31:00,006 - Epoch[57] Time cost=424.910
+2017-12-15 19:31:00,068 - Saved checkpoint to "./tt/squeezenet-RGB-0058.params"
+2017-12-15 19:31:41,419 - Epoch[57] Validation-accuracy=0.989270
+2017-12-15 19:33:33,070 - Epoch[58] Batch [1000]	Speed: 2299.64 samples/sec	accuracy=0.999668
+2017-12-15 19:35:25,387 - Epoch[58] Batch [2000]	Speed: 2279.29 samples/sec	accuracy=0.999750
+2017-12-15 19:37:17,864 - Epoch[58] Batch [3000]	Speed: 2276.03 samples/sec	accuracy=0.999633
+2017-12-15 19:38:45,558 - Epoch[58] Train-accuracy=0.999632
+2017-12-15 19:38:45,559 - Epoch[58] Time cost=424.139
+2017-12-15 19:38:45,677 - Saved checkpoint to "./tt/squeezenet-RGB-0059.params"
+2017-12-15 19:39:25,587 - Epoch[58] Validation-accuracy=0.988766
+2017-12-15 19:41:17,845 - Epoch[59] Batch [1000]	Speed: 2287.30 samples/sec	accuracy=0.999715
+2017-12-15 19:43:10,896 - Epoch[59] Batch [2000]	Speed: 2264.48 samples/sec	accuracy=0.999711
+2017-12-15 19:45:02,927 - Epoch[59] Batch [3000]	Speed: 2285.08 samples/sec	accuracy=0.999668
+2017-12-15 19:46:31,261 - Epoch[59] Train-accuracy=0.999642
+2017-12-15 19:46:31,262 - Epoch[59] Time cost=425.674
+2017-12-15 19:46:31,320 - Saved checkpoint to "./tt/squeezenet-RGB-0060.params"
+2017-12-15 19:47:12,705 - Epoch[59] Validation-accuracy=0.989469
+2017-12-15 19:49:04,871 - Epoch[60] Batch [1000]	Speed: 2288.99 samples/sec	accuracy=0.999746
+2017-12-15 19:50:57,676 - Epoch[60] Batch [2000]	Speed: 2269.42 samples/sec	accuracy=0.999719
+2017-12-15 19:52:49,735 - Epoch[60] Batch [3000]	Speed: 2284.54 samples/sec	accuracy=0.999641
