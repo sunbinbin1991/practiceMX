@@ -1,9 +1,46 @@
 import mxnet as mx
 import numpy as np
 import cv2
-from imdb import Imdb
 
-class MsuRecordIter(mx.io.DataIter):
+
+class Multi_iterator(mx.io.DataIter):
+    '''multi label mnist iterator'''
+
+    def __init__(self, data_iter):
+        super(Multi_iterator, self).__init__()
+        self.data_iter = data_iter
+        self.batch_size = self.data_iter.batch_size
+
+    @property
+    def provide_data(self):
+        return self.data_iter.provide_data
+
+    @property
+    def provide_label(self):
+        provide_label = self.data_iter.provide_label[0]
+        # Different labels should be used here for actual application
+        # return self.data_iter.provide_label
+        return [('softmax1_label', [provide_label[1][0]]),
+            ('softmax2_label', [provide_label[1][0]])]
+        # return [('softmax1_label', (self.batch_size,)),
+        #         ('softmax2_label', (self.batch_size,))]
+
+    def hard_reset(self):
+        self.data_iter.hard_reset()
+
+    def reset(self):
+        self.data_iter.reset()
+
+    def next(self):
+        batch = self.data_iter.next()
+        label = batch.label[0]
+        label1, label2 = label.T.asnumpy()
+        label1 = mx.nd.array(label1)
+        label2 = mx.nd.array(label2)
+        return mx.io.DataBatch(data=batch.data, label=[label1, label2],
+                pad=batch.pad, index=batch.index)
+
+class faceRecordIter(mx.io.DataIter):
     """
     The new detection iterator wrapper for mx.io.ImageDetRecordIter which is
     written in C++, it takes record file as input and runs faster.
@@ -43,7 +80,7 @@ class MsuRecordIter(mx.io.DataIter):
                  label_width=-1, label_pad_width=-1, label_pad_value=-1,
                  resize_mode='force',  mean_pixels=[123, 117, 104]
                 ):
-        super(MsuRecordIter, self).__init__()
+        super(faceRecordIter, self).__init__()
         self.rec = mx.io.ImageRecordIter(
             path_imgrec     = path_imgrec,
             batch_size      = batch_size,
@@ -55,14 +92,17 @@ class MsuRecordIter(mx.io.DataIter):
            )
         self._current = 0
         self._get_batch()
-        self._data_shape = (self.rec.batch_size,6,96,96)
+        self._data_shape = data_shape
+        self.channle = data_shape[0]
+        self.shape = data_shape[1]
     @property
     def provide_data(self):
-        return  [mx.io.DataDesc(name='data', shape = (self.rec.batch_size,6L,96L,96L), layout='NCHW')]
+        return  [mx.io.DataDesc(name='data', shape = (self.rec.batch_size,self.channle,self.shape,self.shape), layout='NCHW')]
     @property
     def provide_label(self):
         return self.rec.provide_label
-        # return [mx.io.DataDesc[name='softmax_label',shape = (16L,6L,96L,96L),layout='NCHW')]
+        # return [('softmax1_label', (self.batch_size,)),
+        #         ('softmax2_label', (self.batch_size,))]
     def reset(self):
         return self.rec.reset()
     def iter_next(self):
@@ -74,29 +114,14 @@ class MsuRecordIter(mx.io.DataIter):
             raise StopIteration
     def _get_batch(self):
         self._batch = self.rec.next()
-        channelNum = 6
+        channelNum = self.channle
         self.shape = self.provide_data[0][1][2]#shape = 96
         self.batch_size = self.provide_data[0][1][0]#batch_size = 4
         batchdata = self._batch.data
-        mean_pixels = [123., 117., 104.]
+        mean_pixels = [127.5, 127.5, 127.5]
         _mean_pixels = mx.nd.array(mean_pixels).reshape((1,3, 1, 1))
-        _data = batchdata[0] + _mean_pixels
-        _data = mx.nd.transpose(_data, (0,2, 3, 1))  # 4*3*96*96--->4*96*96*3
-        padding = mx.nd.zeros((self.batch_size, channelNum, self.shape, self.shape))
-        _data = _data.astype(np.uint8)
-        bgr = _data.asnumpy()
-        for i in range(self.batch_size):
-            hsv= cv2.cvtColor(bgr[i],cv2.COLOR_BGR2HSV)
-            ycrcb = cv2.cvtColor(bgr[i],cv2.COLOR_BGR2YCrCb)
-            hsv = hsv.astype('float32')
-            ycrcb = ycrcb.astype('float32')
-            sub_mean_pixels =  [128., 128., 128.]
-            _hsv= hsv- sub_mean_pixels
-            _ycrcb = ycrcb - sub_mean_pixels
-            con = np.concatenate((_hsv, _ycrcb), axis=2)
-            con_t = con.transpose()
-            padding[i]= con_t
-        self._batch.data[0] = padding
+        _data = (batchdata[0] - _mean_pixels)*127.5
+        self._batch.data[0] = _data
         return True
 
 class LoadIter(mx.io.DataIter):
