@@ -20,8 +20,8 @@ class Multi_iterator(mx.io.DataIter):
         provide_label = self.data_iter.provide_label[0]
         # Different labels should be used here for actual application
         # return self.data_iter.provide_label
-        return [('softmax1_label', [provide_label[1][0]]),
-            ('softmax2_label', [provide_label[1][0]])]
+        return [('softmax1_label', [provide_label[1][0]])]
+            # ('softmax2_label', [provide_label[1][0]])]
         # return [('softmax1_label', (self.batch_size,)),
         #         ('softmax2_label', (self.batch_size,))]
 

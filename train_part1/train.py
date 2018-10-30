@@ -20,7 +20,7 @@ def get_iterators(batch_size, data_shape=(3, 112, 112)):
         mean_r=127.5,
         mean_g=127.5,
         mean_b=127.5,
-        label_width=2
+        label_width=1
     )
     val = mx.io.ImageRecordIter(
         path_imgrec='/home/sbb/data/record/val.rec',
@@ -29,7 +29,7 @@ def get_iterators(batch_size, data_shape=(3, 112, 112)):
         mean_r=127.5,
         mean_g=127.5,
         mean_b=127.5,
-        label_width=2
+        label_width=1
     )
     return (train, val)
 
@@ -74,7 +74,7 @@ def fit(symbol, train, val, batch_size, num_gpus):
     # devs = [mx.gpu(i) for i in range(num_gpus)]
     devs = [mx.gpu(3)]
     mod = mx.mod.Module(symbol, context=devs,
-                        label_names=['softmax1_label', 'softmax2_label'])
+                        label_names=['softmax1_label'])
     # save_prefix = "./model-sq/squeeze"
     prefix = "./models/resnetBin"
     lr_sch = mx.lr_scheduler.FactorScheduler(step=3000, factor=0.9)

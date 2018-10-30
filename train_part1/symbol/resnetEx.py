@@ -73,9 +73,9 @@ def resnetBin(): # 0719 replace all pooling to conv
     # fc1 = mx.symbol.FullyConnected(data=Conv1, num_hidden=1, name='fc1')
     # fc2 = mx.symbol.FullyConnected(data=Conv2, num_hidden=1, name='fc2')
     out1= mx.symbol.SoftmaxOutput(data =Conv1,name = "softmax1")
-    out2= mx.symbol.SoftmaxOutput(data =Conv2,name="softmax2")
+    # out2= mx.symbol.SoftmaxOutput(data =Conv2,name="softmax2")
     # out1= mx.symbol.softmax(data =Conv1,name = "softmax1")
     # out2= mx.symbol.softmax(data =Conv2,name="softmax2")
     # net = mx.symbol.Group([fc1,fc2])
-    net = mx.symbol.Group([out1,out2])
+    net = mx.symbol.Group([out1])
     return net
